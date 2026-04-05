@@ -1,0 +1,13 @@
+\section{Que centralidad informa mejor la importancia de un nodo?}
+
+\subsection{Minired del S\&P 500}
+
+Si hubiera que escoger una sola familia de m\'etricas para esta red, la mejor opci\'on ser\'ia \textbf{HITS}. No porque sea abstractamente superior a las dem\'as, sino porque responde mejor a la pregunta correcta. En esta minired no basta con saber qu\'e empresa tiene muchos enlaces; lo importante es distinguir si esos enlaces salen como ventas o entran como compras. HITS hace justo esa separaci\'on y por eso deja una lectura econ\'omica mucho m\'as limpia: \textbf{NVDA} y \textbf{AMD} aparecen como proveedores fuertes, mientras que \textbf{AMZN}, \textbf{MSFT}, \textbf{TSLA} y \textbf{ORCL} aparecen como compradores estrat\'egicos.
+
+Eso no vuelve irrelevantes a las otras centralidades. El \textit{degree} sigue siendo muy \'util para detectar intensidad local, y ah\'i se ve bien por qu\'e \textbf{WMT} y \textbf{PLTR} compran tanto dentro del recorte. La betweenness, por su parte, explica por qu\'e \textbf{AMZN} y \textbf{MSFT} pesan incluso cuando no son los mayores vendedores: quedan en medio de rutas importantes. Pero si la pregunta central es qu\'e papel cumple cada empresa dentro de la cadena proveedor $\to$ comprador, HITS es la herramienta que mejor traduce la estructura del grafo en una interpretaci\'on econ\'omica clara.
+
+\subsection{Red de \textit{Star Wars Episode II}}
+
+En la red de \textit{Attack of the Clones}, la m\'etrica m\'as reveladora es \textbf{betweenness}. Grado, eigenvector, Katz y PageRank confirman algo que ya se intu\'ia: \textbf{Padm\'e}, \textbf{Obi-Wan} y \textbf{Anakin} son el centro de la pel\'icula. La intermediaci\'on, en cambio, da un paso m\'as y explica por qu\'e ese centro no est\'a repartido de la misma manera. Gracias a betweenness se ve que \textbf{Obi-Wan} no solo aparece mucho, sino que adem\'as enlaza la investigaci\'on, el Consejo Jedi, Kamino, Geonosis y el encuentro con Dooku.
+
+Por eso, si la pregunta es qui\'en sostiene la estructura del relato y no solo qui\'en acumula pantalla, betweenness ofrece la respuesta m\'as interesante. \textbf{Padm\'e} y \textbf{Anakin} siguen siendo decisivos, pero la intermediaci\'on deja claro que el personaje que mejor cose las distintas partes de la historia es \textbf{Obi-Wan}. En una pel\'icula coral, esa diferencia importa mucho m\'as que el simple conteo de apariciones.

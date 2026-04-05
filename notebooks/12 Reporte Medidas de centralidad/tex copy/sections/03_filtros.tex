@@ -1,0 +1,24 @@
+\section{Filtros para estudiar subconjuntos de nodos}
+
+\subsection{Minired del S\&P 500}
+
+Para estudiar subconjuntos de nodos en la minired, el filtro más informativo es uno basado en \textit{rol estructural}. En particular, conviene seleccionar nodos a partir de las puntuaciones de \textit{hubs} y \textit{authorities}, o bien mediante la pareja \textit{out-degree}/\textit{in-degree}. La razón es que la red no representa una relación genérica de afinidad, sino una relación económica dirigida proveedor $\to$ comprador.
+
+Una forma sintética de separar roles consiste en definir
+\[
+ g(v)=\mathrm{Hubs}(v)-\mathrm{Authorities}(v).
+\]
+Esta diferencia no reemplaza a las métricas originales, pero resume el balance entre emisión y recepción dentro del subgrafo. Su interpretación es directa:
+\begin{itemize}[leftmargin=1.5em]
+    \item si $g(v)\gg 0$, el nodo opera como \emph{proveedor neto};
+    \item si $g(v)\ll 0$, el nodo opera como \emph{comprador neto};
+    \item si $g(v)\approx 0$, el nodo está débilmente integrado o no presenta un sesgo estructural fuerte en una de las dos direcciones.
+\end{itemize}
+
+Este filtro es preferible a uno basado solo en grado total porque permite separar funciones económicas cualitativamente distintas. Dos nodos pueden tener el mismo número total de enlaces y, sin embargo, ocupar papeles opuestos: uno como abastecedor del sistema y otro como receptor de insumos. En esta red, ese matiz es central para interpretar la relevancia de una empresa.
+
+\subsection{Red de \textit{Star Wars Episode II}}
+
+En la red de coapariciones, un filtro más útil es el basado en grado, intermediación y pertenencia al núcleo narrativo. El grado permite detectar personajes con muchas conexiones directas; la intermediación identifica personajes que enlazan grupos o escenas distintas; y el núcleo narrativo agrupa a los vértices que concentran la estructura de la película.
+
+En una red no dirigida no tiene sentido separar emisor y receptor, por lo que un filtro basado en \textit{hubs} y \textit{authorities} no añade contenido conceptual nuevo. En cambio, seleccionar personajes con betweenness alta permite distinguir protagonistas que, además de ser visibles, articulan múltiples regiones del relato. Ese criterio es especialmente adecuado cuando se desea diferenciar entre popularidad local y capacidad de conexión estructural.

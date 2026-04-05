@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-05">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="AAPL" label="AAPL" />
+      <node id="MSFT" label="MSFT" />
+      <node id="NVDA" label="NVDA" />
+      <node id="AMZN" label="AMZN" />
+      <node id="GOOGL" label="GOOGL" />
+      <node id="GOOG" label="GOOG" />
+      <node id="AVGO" label="AVGO" />
+      <node id="META" label="META" />
+      <node id="TSLA" label="TSLA" />
+      <node id="BRK.B" label="BRK.B" />
+      <node id="JPM" label="JPM" />
+      <node id="V" label="V" />
+      <node id="MA" label="MA" />
+      <node id="WMT" label="WMT" />
+      <node id="COST" label="COST" />
+      <node id="ORCL" label="ORCL" />
+      <node id="LLY" label="LLY" />
+      <node id="XOM" label="XOM" />
+      <node id="JNJ" label="JNJ" />
+      <node id="PLTR" label="PLTR" />
+      <node id="BAC" label="BAC" />
+      <node id="ABBV" label="ABBV" />
+      <node id="MU" label="MU" />
+      <node id="HD" label="HD" />
+      <node id="NFLX" label="NFLX" />
+      <node id="AMD" label="AMD" />
+      <node id="PG" label="PG" />
+      <node id="GE" label="GE" />
+      <node id="CVX" label="CVX" />
+      <node id="UNH" label="UNH" />
+    </nodes>
+    <edges>
+      <edge source="AAPL" target="WMT" id="0" />
+      <edge source="AAPL" target="COST" id="1" />
+      <edge source="MSFT" target="CVX" id="2" />
+      <edge source="MSFT" target="GE" id="3" />
+      <edge source="MSFT" target="UNH" id="4" />
+      <edge source="MSFT" target="PLTR" id="5" />
+      <edge source="NVDA" target="MSFT" id="6" />
+      <edge source="NVDA" target="AMZN" id="7" />
+      <edge source="NVDA" target="GOOG" id="8" />
+      <edge source="NVDA" target="GOOGL" id="9" />
+      <edge source="NVDA" target="ORCL" id="10" />
+      <edge source="NVDA" target="META" id="11" />
+      <edge source="NVDA" target="TSLA" id="12" />
+      <edge source="AMZN" target="NFLX" id="13" />
+      <edge source="AMZN" target="XOM" id="14" />
+      <edge source="AMZN" target="JNJ" id="15" />
+      <edge source="AMZN" target="ABBV" id="16" />
+      <edge source="AMZN" target="PLTR" id="17" />
+      <edge source="GOOGL" target="PLTR" id="18" />
+      <edge source="AVGO" target="AAPL" id="19" />
+      <edge source="BRK.B" target="WMT" id="20" />
+      <edge source="JPM" target="AAPL" id="21" />
+      <edge source="V" target="COST" id="22" />
+      <edge source="V" target="HD" id="23" />
+      <edge source="V" target="BAC" id="24" />
+      <edge source="MA" target="HD" id="25" />
+      <edge source="MA" target="WMT" id="26" />
+      <edge source="MA" target="AAPL" id="27" />
+      <edge source="MA" target="BAC" id="28" />
+      <edge source="ORCL" target="PLTR" id="29" />
+      <edge source="LLY" target="AMZN" id="30" />
+      <edge source="MU" target="NVDA" id="31" />
+      <edge source="AMD" target="AMZN" id="32" />
+      <edge source="AMD" target="MSFT" id="33" />
+      <edge source="AMD" target="ORCL" id="34" />
+      <edge source="AMD" target="TSLA" id="35" />
+      <edge source="PG" target="WMT" id="36" />
+    </edges>
+  </graph>
+</gexf>

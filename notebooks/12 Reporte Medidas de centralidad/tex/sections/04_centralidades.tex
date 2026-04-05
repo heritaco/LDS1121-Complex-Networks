@@ -1,0 +1,75 @@
+\newpage
+\section{Comparaci\'on de centralidades}
+
+\subsection{Minired del S\&P 500}
+
+
+Notemos que en HITS, el algoritmo predeterminado se quedo con la componente que
+ten\'ia mayor peso espectral. Eso no es un error, pero es importante aclarar que
+las puntuaciones de \textit{hubs} y \textit{authorities} se calculan solo para esa
+parte del grafo. En cambio, el \textit{degree} se calcula para toda la red,
+incluyendo nodos aislados o componentes menores. Por eso es posible que algunos
+nodos tengan \textit{degree} positivo pero puntuaciones de HITS iguales a cero,
+porque quedaron fuera de la componente principal que se us\'o para el c\'alculo
+espectral.
+
+\sidefigure{figs/spideg.png}{Distribuci\'on del \textit{in-degree} en la minired del S\&P 500.}{fig:spideg}{%
+Este histograma muestra qu\'e tan concentrado est\'a el lado comprador. La mayor\'ia de las empresas recibe de muy pocos proveedores, Destacan \text{WMT} y \text{PLTR}, con cuatro proveedores cada una, y justo detr\'as aparecen \text{AAPL} y \text{AMZN}, con tres. La interpretaci\'on econ\'omica cambia seg\'un el nodo: \text{WMT} junta consumo y pagos; \text{PLTR} recibe de plataformas tecnol\'ogicas; \text{AMZN} combina compras tecnol\'ogicas con su propio papel de distribuci\'on hacia otros sectores.%
+}
+
+\sidefigure{figs/spodeg.png}{Distribuci\'on del \textit{out-degree} en la minired del S\&P 500.}{fig:spodeg}{%
+En \textit{out-degree} \text{NVDA} sobresale con mucha claridad, porque vende a siete nodos del grafo; luego vienen \text{AMZN}, \text{AMD}, \text{MSFT} y \text{MA}. Hay pocos proveedores que vendan a muchos compradores y hay una mayor\'ia de firmas con alcance corto. Esta figura tambi\'en aclara por qu\'e \text{MU} no sale como gran vendedor en extensi\'on: en esta minired solo tiene una salida, hacia \text{NVDA}. 
+}
+
+
+\sidefigure{figs/sphubs.png}{Comparaci\'on de centralidad de \textit{hubs} en la minired del S\&P 500.}{fig:sphubs}{%
+En esta gr\'afica los \textit{hubs} fuertes son \text{NVDA} y \text{AMD}, la arista se entiende como proveedor $\to$ comprador y ambas aparecen como firmas que abastecen a varias empresas importantes. \text{NVDA} domina porque le vende a \text{MSFT}, \text{AMZN}, \text{GOOG}, \text{GOOGL}, \text{ORCL}, \text{META} y \text{TSLA}; es decir, no solo vende mucho, sino que vende a nodos que ya ocupan una posici\'on fuerte en la parte compradora de la red. \text{MU}, en cambio, queda mucho m\'as arriba de la cadena que del centro del grafo: aqu\'i solo le vende a \text{NVDA}, as\'i que su papel se ve m\'as como proveedor especializado que como vendedor amplio.%
+}
+
+\sidefigure{figs/spauth.png}{Comparaci\'on de centralidad de \textit{authorities} en la minired del S\&P 500.}{fig:spauth}{%
+Las \textit{authorities} cuentan la historia del lado comprador. Aqu\'i suben \text{AMZN}, \text{MSFT}, \text{TSLA} y \text{ORCL} porque reciben de proveedores que ya eran fuertes como \textit{hubs}, sobre todo \text{NVDA} y \text{AMD}. \text{WMT} s\'i es una de las firmas que m\'as compra si se miran solo enlaces entrantes, porque recibe de \text{AAPL}, \text{PG}, \text{BRK.B} y \text{MA}. Pero HITS no premia solamente cu\'antos proveedores tienes, sino de qui\'en vienen esos enlaces y en qu\'e parte del grafo est\'as parado. Por eso \text{WMT} aparece como comprador local fuerte, aunque no como autoridad dominante en sentido espectral.%
+}
+
+
+La comparaci\'on hace evidente que hay 3 roles distintos. El primero es el del proveedor y ah\'i \text{NVDA} es el caso m\'as claro. El segundo es el del comprador, como \text{AMZN} y \text{MSFT}, porque reciben de nodos muy influyentes. El tercero es el del intermediario. Ah\'i la betweenness resulta especialmente \'util: \text{AMZN} no sobresale como \textit{hub}, pero s\'i como puente entre el bloque de proveedores y clientes como \text{NFLX}, \text{XOM}, \text{JNJ}, \text{ABBV} o \text{PLTR}. \text{MSFT} cumple algo parecido hacia \text{CVX}, \text{GE}, \text{UNH} y tambi\'en \text{PLTR}. 
+
+Tambi\'en conviene separar \textit{degree} de HITS. Por \textit{out-degree}, \text{AMZN} vende a cinco nodos y \text{MA} a cuatro, pero eso no basta para convertirlas en \textit{hubs} dominantes, porque muchas de esas ventas terminan en nodos hoja o en componentes con menos peso espectral. En HITS importa que tan valiosos son los destinos de esos enlaces. Del mismo modo, por \textit{in-degree} \text{PLTR} y \text{WMT} son compradores grandes, pero la autoridad fuerte se concentra en \text{NVDA} y \text{AMD}. 
+
+Tomados juntos, los dos histogramas muestran una red asim\'etrica, no son los mismos en entradas y salidas. En la minired la importancia depende de si una empresa abastece a muchas otras, si compra de muchas o si hace ambas cosas en zonas distintas del grafo. 
+
+\subsection{Red de \textit{Star Wars Episode II}}
+
+En una red de coapariciones se puede observar que los personajes principales son \text{PADM\'E}, \text{OBI-WAN} y \text{ANAKIN}. \text{PADM\'E} concentra la subtrama pol\'itica y la relaci\'on con Anakin; \text{OBI-WAN} la subtrama sobre la investigaci\'on; y \text{ANAKIN} es el principal.
+
+
+\sidefigure{figs/sweigv.png}{Comparaci\'on de centralidad espectral en la red de coapariciones de \textit{Star Wars Episode II}.}{fig:sweigv}{%
+La centralidad espectral sube a quienes no solo aparecen mucho, sino que adem\'as est\'an conectados con otros personajes tambi\'en centrales. Por eso \text{PADM\'E} suele quedar ligeramente arriba: pasa por el Senado, por Naboo, por su familia y por la trama con \text{ANAKIN}. \text{OBI-WAN} aparece enseguida porque enlaza el Consejo Jedi, a \text{Dexter}, a \text{Kamino}, a \text{Jango Fett} y a \text{Geonosis}. \text{ANAKIN} queda muy cerca, pero buena parte de su recorrido est\'a pegado a \text{PADM\'E}; por eso su papel es muy central sin abrir tantas ramas nuevas como el de Obi-Wan.%
+}
+
+\sidefigure{figs/swbtw.png}{Centralidad de intermediaci\'on en la red de coapariciones de \textit{Star Wars Episode II}.}{fig:swbtw}{%
+Aqu\'i se ve mejor qu\'e \text{OBI-WAN} termina arriba, empieza con el atentado y el Consejo Jedi, sigue el rastro hasta \text{Kamino}, persigue a \text{Jango Fett}, llega a \text{Geonosis} y acaba frente a \text{Count Dooku}. \text{PADM\'E} tambi\'en intermedia bastante porque une el bloque pol\'itico de Coruscant, el regreso a Naboo y la arena final. \text{ANAKIN} es central, pero pasa tramos m\'as largos en escenas de pareja o de familia; por eso intermedia menos que ambos.%
+}
+
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[t]{0.48\textwidth}
+        \centering
+        \reportincludegraphics{\linewidth}{figs/swatuh.png}
+        \caption{Comparaci\'on entre \textit{authorities} y \textit{hubs} en la red de \textit{Star Wars Episode II}.}
+        \label{fig:swatuh}
+    \end{subfigure}\hfill
+    \begin{subfigure}[t]{0.48\textwidth}
+        \centering
+        \reportincludegraphics{\linewidth}{figs/swhubs.png}
+        \caption{Comparaci\'on de centralidades tipo HITS en la red de coapariciones de \textit{Star Wars Episode II}.}
+        \label{fig:swhubs}
+    \end{subfigure}
+\end{figure}
+
+
+No hay diferencia entre \textit{authorities} y \textit{hubs}, y eso es exactamente lo que uno esperar\'ia en una red no dirigida. No tiene sentido separar al que ``apunta'' del que ``es apuntado'', porque nadie le vende ni le compra nada a otro personaje
+
+
+
+ \textit{Episode II} se trata tres temas: la intriga pol\'itica alrededor de \text{Padm\'e}, la investigaci\'on Jedi de \text{Obi-Wan} y la historia de \text{Anakin} con Padm\'e y con su pasado en Tatooine. Por eso los tres dominan casi todas las m\'etricas. Detr\'as aparecen \text{Yoda} y \text{Mace Windu}, que suben por el peso del Consejo Jedi y la batalla final, y luego personajes como \text{Jar Jar}, \text{Palpatine} o \text{Mas Amedda}, que se benefician de estar cerca del bloque pol\'itico. 

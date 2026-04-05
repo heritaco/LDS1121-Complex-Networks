@@ -1,0 +1,7 @@
+\section{Introducción}
+
+Este reporte compara dos redes de naturaleza distinta mediante medidas clásicas de centralidad: grado, eigenvector, Katz, PageRank, hubs, authorities, cercanía e intermediación. La primera es una minired dirigida de relaciones proveedor--comprador entre empresas del S\&P 500; la segunda es una red no dirigida de coapariciones entre personajes de \textit{Star Wars Episode II}. El objetivo no es solo enumerar nodos centrales, sino mostrar que el significado de ``ser central'' depende de la semántica de la arista y de la estructura global del grafo.
+
+La comparación es útil porque una red dirigida separa, de manera natural, roles de emisión y recepción. En consecuencia, métricas como HITS permiten distinguir proveedores netos de compradores centrales. En cambio, en una red no dirigida la relación es simétrica: aparecer junto con otro personaje implica una conexión recíproca. Por ello, varias métricas tienden a concentrarse en un mismo núcleo de vértices, y la centralidad de intermediación aporta una dimensión adicional al identificar nodos puente.
+
+A partir de las actividades previas y de las interpretaciones ya elaboradas en el borrador base, el análisis se reorganiza en cuatro preguntas: selección de subconjuntos de nodos, comparación de centralidades, distribución de grados y elección de la métrica más informativa según el tipo de red.

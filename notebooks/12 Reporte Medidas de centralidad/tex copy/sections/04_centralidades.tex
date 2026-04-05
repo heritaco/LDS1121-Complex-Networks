@@ -1,0 +1,39 @@
+\section{Comparaci\'on de centralidades}
+
+\subsection{Minired del S\&P 500}
+
+\sidefigure{figs/sphubs.png}{Comparaci\'on de centralidad de \textit{hubs} en la minired del S\&P 500.}{fig:sphubs}{%
+En esta gr\'afica los \textit{hubs} fuertes son \textbf{NVDA} y \textbf{AMD}. La lectura tiene sentido si la arista se entiende como proveedor $\to$ comprador: ambas aparecen como firmas que abastecen a varias empresas importantes dentro del recorte. \textbf{NVDA} domina porque le vende a \textbf{MSFT}, \textbf{AMZN}, \textbf{GOOG}, \textbf{GOOGL}, \textbf{ORCL}, \textbf{META} y \textbf{TSLA}; es decir, no solo vende mucho, sino que vende a nodos que ya ocupan una posici\'on fuerte en la parte compradora de la red. \textbf{MU}, en cambio, queda mucho m\'as arriba de la cadena que del centro del grafo: aqu\'i solo le vende a \textbf{NVDA}, as\'i que su papel se ve m\'as como proveedor especializado que como vendedor amplio.%
+}
+
+\sidefigure{figs/spauth.png}{Comparaci\'on de centralidad de \textit{authorities} en la minired del S\&P 500.}{fig:spauth}{%
+Las \textit{authorities} cuentan la historia del lado comprador. Aqu\'i suben \textbf{AMZN}, \textbf{MSFT}, \textbf{TSLA} y \textbf{ORCL} porque reciben de proveedores que ya eran fuertes como \textit{hubs}, sobre todo \textbf{NVDA} y \textbf{AMD}. Esto tambi\'en ayuda a matizar una intuici\'on importante: \textbf{WMT} s\'i es una de las firmas que m\'as compra si se miran solo enlaces entrantes, porque recibe de \textbf{AAPL}, \textbf{PG}, \textbf{BRK.B} y \textbf{MA}. Pero HITS no premia solamente cu\'antos proveedores tienes, sino de qui\'en vienen esos enlaces y en qu\'e parte del grafo est\'as parado. Por eso \textbf{WMT} aparece como comprador local fuerte, aunque no como autoridad dominante en sentido espectral.%
+}
+
+\subsubsection*{Lectura conjunta}
+
+La comparaci\'on entre medidas deja ver tres papeles distintos. El primero es el del proveedor amplio, y ah\'i \textbf{NVDA} es el caso m\'as claro. El segundo es el del comprador estrat\'egico, que en esta red recae sobre \textbf{AMZN} y \textbf{MSFT}, porque reciben de nodos muy influyentes. El tercero es el del intermediario. Ah\'i la betweenness resulta especialmente \'util: \textbf{AMZN} no sobresale como \textit{hub}, pero s\'i como puente entre el bloque de proveedores tecnol\'ogicos y clientes m\'as perif\'ericos como \textbf{NFLX}, \textbf{XOM}, \textbf{JNJ}, \textbf{ABBV} o \textbf{PLTR}. \textbf{MSFT} cumple algo parecido hacia \textbf{CVX}, \textbf{GE}, \textbf{UNH} y tambi\'en \textbf{PLTR}. En otras palabras, vender mucho, comprar de nodos importantes y quedar en medio de rutas relevantes no son la misma cosa, y justo por eso vale la pena mirar varias centralidades al mismo tiempo.
+
+Tambi\'en conviene separar \textit{degree} de HITS. Por \textit{out-degree}, \textbf{AMZN} vende a cinco nodos y \textbf{MA} a cuatro, pero eso no basta para convertirlas en \textit{hubs} dominantes. La raz\'on es sencilla: muchas de esas ventas terminan en nodos hoja o en componentes con menos peso espectral. HITS es m\'as exigente: no solo pregunta cu\'antos enlaces salen, sino qu\'e tan valiosos son los destinos de esos enlaces. Del mismo modo, por \textit{in-degree} \textbf{PLTR} y \textbf{WMT} son compradores grandes dentro del recorte, pero la autoridad fuerte se concentra en el bloque tecnol\'ogico que conecta con \textbf{NVDA} y \textbf{AMD}. Esa diferencia no es un problema del m\'etodo; m\'as bien muestra que cada m\'etrica est\'a midiendo una forma distinta de importancia econ\'omica.
+
+\subsection{Red de \textit{Star Wars Episode II}}
+
+\sidefigure{figs/swhubs.png}{Comparaci\'on de centralidades tipo HITS en la red de coapariciones de \textit{Star Wars Episode II}.}{fig:swhubs}{%
+En una red de coapariciones no hay una asimetr\'ia tan clara como en la minired del S\&P 500. Aun as\'i, la gr\'afica deja algo muy convincente: el coraz\'on de la pel\'icula est\'a en \textbf{PADM\'E}, \textbf{OBI-WAN} y \textbf{ANAKIN}. Eso coincide con la historia. \textbf{PADM\'E} concentra la intriga pol\'itica y la relaci\'on con Anakin; \textbf{OBI-WAN} carga la investigaci\'on; y \textbf{ANAKIN} sostiene el frente emocional y buena parte de la acci\'on. Cuando una pel\'icula est\'a armada alrededor de esos tres ejes, es natural que ellos sean los personajes que m\'as veces quedan conectados con otros.%
+}
+
+\sidefigure{figs/sweigv.png}{Comparaci\'on de centralidad espectral en la red de coapariciones de \textit{Star Wars Episode II}.}{fig:sweigv}{%
+La centralidad espectral sube a quienes no solo aparecen mucho, sino que adem\'as est\'an conectados con otros personajes tambi\'en centrales. Por eso \textbf{PADM\'E} suele quedar ligeramente arriba: pasa por el Senado, por Naboo, por su familia y por la trama con \textbf{ANAKIN}. \textbf{OBI-WAN} aparece enseguida porque enlaza el Consejo Jedi, a \textbf{Dexter}, a \textbf{Kamino}, a \textbf{Jango Fett} y a \textbf{Geonosis}. \textbf{ANAKIN} queda muy cerca, pero buena parte de su recorrido est\'a pegado a \textbf{PADM\'E}; por eso su papel es muy central sin abrir tantas ramas nuevas como el de Obi-Wan.%
+}
+
+\sidefigure{figs/swbtw.png}{Centralidad de intermediaci\'on en la red de coapariciones de \textit{Star Wars Episode II}.}{fig:swbtw}{%
+Aqu\'i se ve mejor por qu\'e \textbf{OBI-WAN} termina tan arriba. En \textit{Attack of the Clones} es el personaje que va cosiendo bloques que, sin \'el, quedar\'ian m\'as separados: empieza con el atentado y el Consejo Jedi, sigue el rastro hasta \textbf{Kamino}, persigue a \textbf{Jango Fett}, llega a \textbf{Geonosis} y acaba frente a \textbf{Count Dooku}. \textbf{PADM\'E} tambi\'en intermedia bastante porque une el bloque pol\'itico de Coruscant, el regreso a Naboo y la arena final. \textbf{ANAKIN} es central, pero pasa tramos m\'as largos en escenas de pareja o de familia; por eso intermedia menos que Obi-Wan.%
+}
+
+\sidefigure{figs/swatuh.png}{Comparaci\'on entre \textit{authorities} y \textit{hubs} en la red de \textit{Star Wars Episode II}.}{fig:swatuh}{%
+La diferencia entre \textit{authorities} y \textit{hubs} casi desaparece, y eso es exactamente lo que uno esperar\'ia en una red de coapariciones. Compartir escena es una relaci\'on rec\'iproca: si \textbf{Padm\'e} aparece con \textbf{Anakin}, la conexi\'on cuenta para ambos. En t\'erminos narrativos, aqu\'i no tiene sentido separar al que ``apunta'' del que ``es apuntado'', porque nadie le vende ni le compra nada a otro personaje; simplemente coinciden en pantalla. La utilidad de esta figura est\'a en mostrar que la pel\'icula se organiza por presencia compartida dentro de un mismo n\'ucleo dram\'atico, no por roles direccionales.%
+}
+
+\subsubsection*{Lectura conjunta}
+
+Miradas juntas, las gr\'aficas dicen algo bastante natural. \textit{Episode II} se sostiene sobre tres hilos: la intriga pol\'itica alrededor de \textbf{Padm\'e}, la investigaci\'on Jedi de \textbf{Obi-Wan} y la historia de \textbf{Anakin} con Padm\'e y con su pasado en Tatooine. Por eso los tres dominan casi todas las m\'etricas. Detr\'as aparecen \textbf{Yoda} y \textbf{Mace Windu}, que suben por el peso del Consejo Jedi y la batalla final, y luego personajes como \textbf{Jar Jar}, \textbf{Palpatine} o \textbf{Mas Amedda}, que se benefician de estar cerca del bloque pol\'itico. La red, en ese sentido, no solo confirma qui\'enes son los protagonistas; tambi\'en explica por qu\'e lo son desde la estructura misma de la historia.

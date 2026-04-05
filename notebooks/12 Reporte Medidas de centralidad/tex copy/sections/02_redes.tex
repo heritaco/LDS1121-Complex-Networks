@@ -1,0 +1,20 @@
+\section{Descripción de las redes}
+
+\subsection{Minired del S\&P 500}
+
+La minired se construye con las 30 empresas de mayor capitalización de mercado dentro del S\&P 500. Cada nodo representa una empresa y cada arista dirigida
+\[
+ u\to v
+\]
+indica que la empresa $u$ provee a la empresa $v$. Esta convención es importante porque el sentido económico de una conexión saliente no es el mismo que el de una conexión entrante. Un alto \textit{out-degree} indica que la empresa abastece a muchos nodos de la subred; un alto \textit{in-degree} indica que compra a varios participantes del subconjunto.
+
+La orientación de las aristas hace especialmente útil la distinción entre \textit{hubs} y \textit{authorities}. En este contexto, un \textit{hub} alto caracteriza a un proveedor fuerte dentro del subgrafo, mientras que una \textit{authority} alta caracteriza a un comprador central, es decir, a una empresa que recibe enlaces desde proveedores estructuralmente relevantes.
+
+\subsection{Red real de \textit{Star Wars Episode II}}
+
+La segunda red es una red no dirigida de coapariciones entre personajes de \textit{Star Wars Episode II}. Cada nodo representa un personaje y una arista indica que dos personajes comparten escenas o contextos narrativos de aparición. Al ser una relación simétrica, la matriz de adyacencia satisface
+\[
+A=A^{\top}.
+\]
+
+Esta simetría modifica la interpretación de las métricas. En particular, los conceptos de emisión y recepción dejan de estar separados, por lo que \textit{hubs} y \textit{authorities} coinciden. La red describe, entonces, un espacio narrativo donde la centralidad captura presencia en el núcleo de la película, cercanía a personajes relevantes o capacidad de conectar regiones distintas del relato.

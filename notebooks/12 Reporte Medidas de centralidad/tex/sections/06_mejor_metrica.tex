@@ -1,0 +1,15 @@
+\newpage
+\section{Que centralidad informa mejor la importancia de un nodo?}
+
+\subsection{Minired del S\&P 500}
+
+
+Se recomendar\'ia usar las m\'etricas de \textit{degree} y no HITS porque, aunque HITS puede calcularse en grafos dirigidos disconexos, sus puntuaciones pueden concentrarse en una componente dominante y volverse poco informativas para nodos periféricos o aislados. En cambio, el \textit{degree} es una medida local que no depende de la conectividad global del grafo y permite describir de forma directa cuántos vínculos entrantes y salientes tiene cada empresa en esta minired.
+
+En particular, el \textit{in-degree} cuenta cuántos proveedores abastecen a una firma, mientras que el \textit{out-degree} cuenta a cuántos compradores abastece esa firma. Dado que el objetivo aquí es describir la distribución básica de enlaces y no extraer una jerarquía espectral global, degree resulta más adecuado que HITS.
+
+Eso no vuelve irrelevantes a las otras centralidades. La betweenness, por ejemplo, explica por qu\'e \text{AMZN} y \text{MSFT} pesan incluso cuando no son los mayores vendedores: quedan en medio de rutas importantes. 
+
+\subsection{Red de \textit{Star Wars Episode II}}
+
+En la red de \textit{Attack of the Clones}, la m\'etrica m\'as reveladora es \text{betweenness}. Grado, eigenvector, Katz y PageRank confirman algo que ya se intu\'ia: \text{Padm\'e}, \text{Obi-Wan} y \text{Anakin} son el centro de la pel\'icula. La intermediaci\'on, en cambio, explica que \text{Obi-Wan} no solo aparece mucho, sino que adem\'as enlaza la investigaci\'on, el Consejo Jedi, Kamino, Geonosis y el encuentro con Dooku. \text{Padm\'e} y \text{Anakin} siguen siendo importantes, pero la intermediaci\'on deja claro que el personaje que mejor cose las distintas partes de la historia es \text{Obi-Wan}.

@@ -1,0 +1,21 @@
+\section{Histogramas de distribuci\'on de grados}
+
+\subsection{Minired del S\&P 500}
+
+\sidefigure{figs/spideg.png}{Distribuci\'on del \textit{in-degree} en la minired del S\&P 500.}{fig:spideg}{%
+Este histograma muestra qu\'e tan concentrado est\'a el lado comprador. La mayor\'ia de las empresas recibe de muy pocos proveedores dentro del recorte, mientras que unas cuantas concentran varias entradas. Ah\'i destacan \textbf{WMT} y \textbf{PLTR}, con cuatro proveedores cada una, y justo detr\'as aparecen \textbf{AAPL} y \textbf{AMZN}, con tres. La interpretaci\'on econ\'omica cambia seg\'un el nodo: \textbf{WMT} junta consumo y pagos; \textbf{PLTR} recibe de plataformas tecnol\'ogicas; \textbf{AMZN} combina compras tecnol\'ogicas con su propio papel de distribuci\'on hacia otros sectores.%
+}
+
+\sidefigure{figs/spodeg.png}{Distribuci\'on del \textit{out-degree} en la minired del S\&P 500.}{fig:spodeg}{%
+El \textit{out-degree} est\'a todav\'ia m\'as sesgado. \textbf{NVDA} sobresale con mucha claridad, porque vende a siete nodos del grafo; luego vienen \textbf{AMZN}, \textbf{AMD}, \textbf{MSFT} y \textbf{MA}. La foto general es clara: hay pocos proveedores que irradian hacia muchos compradores y una mayor\'ia de firmas con alcance corto. Esta figura tambi\'en aclara por qu\'e \textbf{MU} no sale como gran vendedor en extensi\'on: en esta minired solo tiene una salida, hacia \textbf{NVDA}. Su lugar es importante aguas arriba, pero no como distribuidor amplio dentro del top 30 recortado.%
+}
+
+Tomados juntos, los dos histogramas muestran una red concentrada y bastante asim\'etrica. No son los mismos nombres los que se repiten en entradas y salidas, y eso es precisamente lo interesante: en la minired del S\&P 500 la importancia econ\'omica depende de si una empresa abastece a muchas otras, si compra de muchas o si hace ambas cosas en zonas distintas del grafo. La separaci\'on entre \textit{in-degree} y \textit{out-degree} permite ver esa diferencia de inmediato.
+
+\subsection{Red de \textit{Star Wars Episode II}}
+
+\sidefigure{figs/newplot.png}{Panel comparativo de m\'etricas de centralidad en la red grande de \textit{Star Wars Episode II}.}{fig:swmetricas_panel}{%
+Aunque este panel no es un histograma de grado en sentido estricto, sirve para ver el mismo patr\'on a escala de toda la red: la mayor\'ia de los personajes se queda con valores muy bajos y un grupo peque\~no concentra los picos de centralidad. Eso es exactamente lo que uno esperar\'ia de \textit{Attack of the Clones}. La pel\'icula tiene un elenco amplio, pero no reparte la atenci\'on de forma pareja; casi todo termina orbitando alrededor de \textbf{Padm\'e}, \textbf{Obi-Wan} y \textbf{Anakin}, con un segundo anillo donde entran \textbf{Yoda}, \textbf{Mace Windu} y el bloque pol\'itico de Coruscant.%
+}
+
+Si se dibujara aqu\'i el histograma de grado de la pel\'icula, la lectura ser\'ia muy parecida: una cola larga de personajes secundarios y un n\'ucleo peque\~no que concentra la mayor parte de las conexiones. Eso tambi\'en tiene sentido desde la historia. Muchos personajes aparecen una o dos veces para empujar una escena concreta, mientras que unos pocos sostienen casi todo el movimiento narrativo. La forma de la distribuci\'on, por tanto, no solo habla de la red; tambi\'en habla de c\'omo est\'a contada la pel\'icula.
