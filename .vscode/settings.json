@@ -3,5 +3,72 @@
   "jupyter.notebookFileRoot": "${workspaceFolder}",
 
   // Specify the environment file for Python
-  "python.envFile": "${workspaceFolder}/.vscode/.env"
+  "python.envFile": "${workspaceFolder}/.vscode/.env",
+
+  // Build LaTeX documents with biber-aware recipes in this workspace.
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk-xelatex",
+      "command": "latexmk",
+      "args": [
+        "-xelatex",
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOC%"
+      ]
+    },
+    {
+      "name": "latexmk",
+      "command": "latexmk",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-pdf",
+        "%DOC%"
+      ]
+    },
+    {
+      "name": "pdflatex",
+      "command": "pdflatex",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOC%"
+      ]
+    },
+    {
+      "name": "biber",
+      "command": "biber",
+      "args": [
+        "%DOCFILE%"
+      ]
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "latexmk (xelatex recommended)",
+      "tools": [
+        "latexmk-xelatex"
+      ]
+    },
+    {
+      "name": "latexmk (pdflatex)",
+      "tools": [
+        "latexmk"
+      ]
+    },
+    {
+      "name": "pdflatex -> biber -> pdflatex x2",
+      "tools": [
+        "pdflatex",
+        "biber",
+        "pdflatex",
+        "pdflatex"
+      ]
+    }
+  ],
+  "latex-workshop.latex.recipe.default": "first"
 }

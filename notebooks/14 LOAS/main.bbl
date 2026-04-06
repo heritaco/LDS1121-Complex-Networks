@@ -1,0 +1,1519 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{BanfRhee2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1ba99acc7402ce06621eccb7d4ea57b8}{%
+           family={Banf},
+           familyi={B\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=852336c7efcebf85764351d5603ec4f2}{%
+           family={Rhee},
+           familyi={R\bibinitperiod},
+           given={Seung\bibnamedelima Y.},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{fullhash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{fullhashraw}{84cc04f50be70ce4ac3f330135234552}
+      \strng{bibnamehash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{authorbibnamehash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{authornamehash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{authorfullhash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{authorfullhashraw}{84cc04f50be70ce4ac3f330135234552}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biochimica et Biophysica Acta - Gene Regulatory Mechanisms}
+      \field{number}{1}
+      \field{title}{Computational inference of gene regulatory networks: Approaches, limitations and opportunities}
+      \field{volume}{1860}
+      \field{year}{2017}
+      \field{pages}{41\bibrangedash 52}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.bbagrm.2016.09.003
+      \endverb
+    \endentry
+    \entry{Bascompte2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b71c47fff97792c37706210243e23ae5}{%
+           family={Bascompte},
+           familyi={B\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b71c47fff97792c37706210243e23ae5}
+      \strng{fullhash}{b71c47fff97792c37706210243e23ae5}
+      \strng{fullhashraw}{b71c47fff97792c37706210243e23ae5}
+      \strng{bibnamehash}{b71c47fff97792c37706210243e23ae5}
+      \strng{authorbibnamehash}{b71c47fff97792c37706210243e23ae5}
+      \strng{authornamehash}{b71c47fff97792c37706210243e23ae5}
+      \strng{authorfullhash}{b71c47fff97792c37706210243e23ae5}
+      \strng{authorfullhashraw}{b71c47fff97792c37706210243e23ae5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{5939}
+      \field{title}{Disentangling the web of life}
+      \field{volume}{325}
+      \field{year}{2009}
+      \field{pages}{416\bibrangedash 419}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1170749
+      \endverb
+    \endentry
+    \entry{Beagrie2017}{article}{}{}
+      \name{author}{17}{}{%
+        {{un=0,uniquepart=base,hash=3b65ecfe0b4295b6a5863f3028e23d1f}{%
+           family={Beagrie},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2539f997af0eb99b97bbd112816d375f}{%
+           family={Scialdone},
+           familyi={S\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22378fda1b3e9da4e87a65e5a3869dad}{%
+           family={Schueler},
+           familyi={S\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=604919c35840f355dcd62a39cb3d3daf}{%
+           family={Kraemer},
+           familyi={K\bibinitperiod},
+           given={Daniel\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5df4dbe672da88adc29f8609ea65b00f}{%
+           family={Chotalia},
+           familyi={C\bibinitperiod},
+           given={Minal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a89623cf8829f0146a66037a158dd5c3}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Shuqian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d7eb28c3721ecc01996e33503f2e50a}{%
+           family={Barbieri},
+           familyi={B\bibinitperiod},
+           given={Marcello},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=796682df86d4b1619187c8340d8d36b8}{%
+           family={Santiago},
+           familyi={S\bibinitperiod},
+           given={Ignacio},
+           giveni={I\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=dff130d879794e4f31133a07399781cb}{%
+           family={Lavitas},
+           familyi={L\bibinitperiod},
+           given={Lisa\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=360deadb38aeebb21e22fad5df2dc434}{%
+           family={Branco},
+           familyi={B\bibinitperiod},
+           given={Marta\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c9df78eda4841417323110ac23f6bdb}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54686823b5d102eace03a118529bd9b5}{%
+           family={Dostie},
+           familyi={D\bibinitperiod},
+           given={Josée},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30480abf5646cceb25df170b815a9215}{%
+           family={Game},
+           familyi={G\bibinitperiod},
+           given={Laurence},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=675249ccfb8d7507c4c44d3b837d064e}{%
+           family={Dillon},
+           familyi={D\bibinitperiod},
+           given={Niall},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c06811e48c30c949f19d618d71153a3}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={Paul\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19724b3b2f31928e28be44cd986b80d6}{%
+           family={Nicodemi},
+           familyi={N\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e58242642380bd319c1694eec4e76754}{%
+           family={Pombo},
+           familyi={P\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0a28850713fe2c584c786511c1346126}
+      \strng{fullhash}{5c28dcde8af514f225f2cdcad07ac99f}
+      \strng{fullhashraw}{5c28dcde8af514f225f2cdcad07ac99f}
+      \strng{bibnamehash}{5c28dcde8af514f225f2cdcad07ac99f}
+      \strng{authorbibnamehash}{5c28dcde8af514f225f2cdcad07ac99f}
+      \strng{authornamehash}{0a28850713fe2c584c786511c1346126}
+      \strng{authorfullhash}{5c28dcde8af514f225f2cdcad07ac99f}
+      \strng{authorfullhashraw}{5c28dcde8af514f225f2cdcad07ac99f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{7646}
+      \field{title}{Complex multi-enhancer contacts captured by genome architecture mapping}
+      \field{volume}{543}
+      \field{year}{2017}
+      \field{pages}{519\bibrangedash 524}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/nature21411
+      \endverb
+    \endentry
+    \entry{BullmoreSporns2009}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8a5528818865dbabbeb704ddc9b3100e}{%
+           family={Bullmore},
+           familyi={B\bibinitperiod},
+           given={Ed},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45ad603551aca6e1246f0e73c18c6eed}{%
+           family={Sporns},
+           familyi={S\bibinitperiod},
+           given={Olaf},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{fullhash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{fullhashraw}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{bibnamehash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{authorbibnamehash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{authornamehash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{authorfullhash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{authorfullhashraw}{c72017c2d2caa46d1be3f49dda5db011}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Reviews Neuroscience}
+      \field{number}{3}
+      \field{title}{Complex brain networks: graph theoretical analysis of structural and functional systems}
+      \field{volume}{10}
+      \field{year}{2009}
+      \field{pages}{186\bibrangedash 198}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1038/nrn2575
+      \endverb
+    \endentry
+    \entry{Dunne2002}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0237443e40e8da6ce9c48089ad28c91b}{%
+           family={Dunne},
+           familyi={D\bibinitperiod},
+           given={Jennifer\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8bf10ed4f0afb794613214b847bea1fd}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ae2470ca065d7ef410b50b1e3575d2a}{%
+           family={Martinez},
+           familyi={M\bibinitperiod},
+           given={Neo\bibnamedelima D.},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5db80e371e0829eb3a539515cd5c6cf0}
+      \strng{fullhash}{222c25dd3471207ba331f9d031dc4633}
+      \strng{fullhashraw}{222c25dd3471207ba331f9d031dc4633}
+      \strng{bibnamehash}{222c25dd3471207ba331f9d031dc4633}
+      \strng{authorbibnamehash}{222c25dd3471207ba331f9d031dc4633}
+      \strng{authornamehash}{5db80e371e0829eb3a539515cd5c6cf0}
+      \strng{authorfullhash}{222c25dd3471207ba331f9d031dc4633}
+      \strng{authorfullhashraw}{222c25dd3471207ba331f9d031dc4633}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecology Letters}
+      \field{number}{4}
+      \field{title}{Network structure and biodiversity loss in food webs: robustness increases with connectance}
+      \field{volume}{5}
+      \field{year}{2002}
+      \field{pages}{558\bibrangedash 567}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1046/j.1461-0248.2002.00354.x
+      \endverb
+    \endentry
+    \entry{Elowitz2002}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=172d917eef79d80ede6ac97ef3cfb264}{%
+           family={Elowitz},
+           familyi={E\bibinitperiod},
+           given={Michael\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cff54519aaf69cd3a95abd91fc0a1b2}{%
+           family={Levine},
+           familyi={L\bibinitperiod},
+           given={Arnold\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=232fe6f0d8549f2fe8607cc9ff28dda1}{%
+           family={Siggia},
+           familyi={S\bibinitperiod},
+           given={Eric\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=654a2b16a78ef3f2363bd043c12ee9d9}{%
+           family={Swain},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{afcecdeeae6ebf9ab43768333ff87600}
+      \strng{fullhash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{fullhashraw}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{bibnamehash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{authorbibnamehash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{authornamehash}{afcecdeeae6ebf9ab43768333ff87600}
+      \strng{authorfullhash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{authorfullhashraw}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{5584}
+      \field{title}{Stochastic gene expression in a single cell}
+      \field{volume}{297}
+      \field{year}{2002}
+      \field{pages}{1183\bibrangedash 1186}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1070919
+      \endverb
+    \endentry
+    \entry{EmmertStreib2015}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c366d0d37b00e25cc0c52232b4966ca9}{%
+           family={Emmert-Streib},
+           familyi={E\bibinithyphendelim S\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05330ee0b485bcd55ec422c84ed865ed}{%
+           family={Dehmer},
+           familyi={D\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{fullhash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{fullhashraw}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{bibnamehash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{authorbibnamehash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{authornamehash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{authorfullhash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{authorfullhashraw}{2f44fa498bf882eb72befffe5f349ace}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Genetics}
+      \field{title}{Biological networks: the microscope of the twenty-first century?}
+      \field{volume}{6}
+      \field{year}{2015}
+      \field{pages}{307}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fgene.2015.00307
+      \endverb
+    \endentry
+    \entry{EmmertStreib2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c366d0d37b00e25cc0c52232b4966ca9}{%
+           family={Emmert-Streib},
+           familyi={E\bibinithyphendelim S\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05330ee0b485bcd55ec422c84ed865ed}{%
+           family={Dehmer},
+           familyi={D\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=219737c77284dde2d13b3a26fe4020c6}{%
+           family={Haibe-Kains},
+           familyi={H\bibinithyphendelim K\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{688da31b8ec3bf7ee3e1e8ec5db764f1}
+      \strng{fullhash}{a3e10f39e231484df54112098f7c34aa}
+      \strng{fullhashraw}{a3e10f39e231484df54112098f7c34aa}
+      \strng{bibnamehash}{a3e10f39e231484df54112098f7c34aa}
+      \strng{authorbibnamehash}{a3e10f39e231484df54112098f7c34aa}
+      \strng{authornamehash}{688da31b8ec3bf7ee3e1e8ec5db764f1}
+      \strng{authorfullhash}{a3e10f39e231484df54112098f7c34aa}
+      \strng{authorfullhashraw}{a3e10f39e231484df54112098f7c34aa}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Cell and Developmental Biology}
+      \field{title}{Gene regulatory networks and their applications: understanding biological and medical problems in terms of networks}
+      \field{volume}{2}
+      \field{year}{2014}
+      \field{pages}{38}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fcell.2014.00038
+      \endverb
+    \endentry
+    \entry{Jeong2001}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f0f51cd5afc669d57dbff9b8e913c55c}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Hawoong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=321211e200f9843612f68b56ae41f1a6}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Sean\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15bacd7ddfc866c5dd96976d4b0244d5}{%
+           family={Barabási},
+           familyi={B\bibinitperiod},
+           given={Albert-László},
+           giveni={A\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1a7e493e4ebe40d2280fd8aba2e69f4}{%
+           family={Oltvai},
+           familyi={O\bibinitperiod},
+           given={Zoltán\bibnamedelima N.},
+           giveni={Z\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b3c661f8d00cd663ddc7f8e453a0d221}
+      \strng{fullhash}{6eda3f18c536b043b11d0a29cd32c608}
+      \strng{fullhashraw}{6eda3f18c536b043b11d0a29cd32c608}
+      \strng{bibnamehash}{6eda3f18c536b043b11d0a29cd32c608}
+      \strng{authorbibnamehash}{6eda3f18c536b043b11d0a29cd32c608}
+      \strng{authornamehash}{b3c661f8d00cd663ddc7f8e453a0d221}
+      \strng{authorfullhash}{6eda3f18c536b043b11d0a29cd32c608}
+      \strng{authorfullhashraw}{6eda3f18c536b043b11d0a29cd32c608}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{6833}
+      \field{title}{Lethality and centrality in protein networks}
+      \field{volume}{411}
+      \field{year}{2001}
+      \field{pages}{41\bibrangedash 42}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1038/35075138
+      \endverb
+    \endentry
+    \entry{Kauffman1969}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a447063ee328386c8ceba6c257ab6bc9}{%
+           family={Kauffman},
+           familyi={K\bibinitperiod},
+           given={Stuart\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{fullhash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{fullhashraw}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{bibnamehash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{authorbibnamehash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{authornamehash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{authorfullhash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{authorfullhashraw}{a447063ee328386c8ceba6c257ab6bc9}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Theoretical Biology}
+      \field{number}{3}
+      \field{title}{Metabolic stability and epigenesis in randomly constructed genetic nets}
+      \field{volume}{22}
+      \field{year}{1969}
+      \field{pages}{437\bibrangedash 467}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1016/0022-5193(69)90015-0
+      \endverb
+    \endentry
+    \entry{Koutrouli2020}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=93792d1ac2964d9aff8858691d2eee7d}{%
+           family={Koutrouli},
+           familyi={K\bibinitperiod},
+           given={Mikaela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad077bc53a031b8849522cd55bba4f73}{%
+           family={Karatzas},
+           familyi={K\bibinitperiod},
+           given={Evangelos},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7bda81ee1d9c6cfd40aad4a52f17cc1}{%
+           family={Paez-Espino},
+           familyi={P\bibinithyphendelim E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0087d9b97de9555720996d74b66fb60b}{%
+           family={Pavlopoulos},
+           familyi={P\bibinitperiod},
+           given={Georgios\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{591ab8f6469d117abf1a321f7a5ad71d}
+      \strng{fullhash}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \strng{fullhashraw}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \strng{bibnamehash}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \strng{authorbibnamehash}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \strng{authornamehash}{591ab8f6469d117abf1a321f7a5ad71d}
+      \strng{authorfullhash}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \strng{authorfullhashraw}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Bioengineering and Biotechnology}
+      \field{title}{A guide to conquer the biological network era using graph theory}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{pages}{34}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fbioe.2020.00034
+      \endverb
+    \endentry
+    \entry{KrauseLusseauJames2009}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e8522f69e0b7ebdc1f923ae82d7449b0}{%
+           family={Krause},
+           familyi={K\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5387220716bcf37eb381b7f64e3003b}{%
+           family={Lusseau},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6db3c5ae1ca380e804836bbb90bd8a6}{%
+           family={James},
+           familyi={J\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{44d730f6fc84f11fb5b9588dc94f81a4}
+      \strng{fullhash}{9244f380af8eb74792ed183325aa23a3}
+      \strng{fullhashraw}{9244f380af8eb74792ed183325aa23a3}
+      \strng{bibnamehash}{9244f380af8eb74792ed183325aa23a3}
+      \strng{authorbibnamehash}{9244f380af8eb74792ed183325aa23a3}
+      \strng{authornamehash}{44d730f6fc84f11fb5b9588dc94f81a4}
+      \strng{authorfullhash}{9244f380af8eb74792ed183325aa23a3}
+      \strng{authorfullhashraw}{9244f380af8eb74792ed183325aa23a3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavioral Ecology and Sociobiology}
+      \field{number}{7}
+      \field{title}{Animal social networks: an introduction}
+      \field{volume}{63}
+      \field{year}{2009}
+      \field{pages}{967\bibrangedash 973}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1007/s00265-009-0747-0
+      \endverb
+    \endentry
+    \entry{ManganAlon2003}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=34ac788045355582638259e682aef69e}{%
+           family={Mangan},
+           familyi={M\bibinitperiod},
+           given={Shalev},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0026e806b0c3123f7fb978a2c810b66}{%
+           family={Alon},
+           familyi={A\bibinitperiod},
+           given={Uri},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{fullhash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{fullhashraw}{cf479be799838e0ff4e2b74258559a97}
+      \strng{bibnamehash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{authorbibnamehash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{authornamehash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{authorfullhash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{authorfullhashraw}{cf479be799838e0ff4e2b74258559a97}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{21}
+      \field{title}{Structure and function of the feed-forward loop network motif}
+      \field{volume}{100}
+      \field{year}{2003}
+      \field{pages}{11980\bibrangedash 11985}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.2133841100
+      \endverb
+    \endentry
+    \entry{Mittal2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a917e8e3b79d884fbd50f0f5f8abfdb7}{%
+           family={Mittal},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b5e560aa459e80e94d0228ab17869d6}{%
+           family={Narayanan},
+           familyi={N\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{fullhash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{fullhashraw}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{bibnamehash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{authorbibnamehash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{authornamehash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{authorfullhash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{authorfullhashraw}{eefdfbf694f10913d1ef9b7439729261}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trends in Neurosciences}
+      \field{number}{7}
+      \field{title}{Network motifs in cellular neurophysiology}
+      \field{volume}{47}
+      \field{year}{2024}
+      \field{pages}{506\bibrangedash 521}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.tins.2024.04.008
+      \endverb
+    \endentry
+    \entry{ZhangHorvath2005}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=edefadf2737f4300dd8a9daa07b31f02}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Bin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f520a749adbb878b4ba30b3f54e0dad8}{%
+           family={Horvath},
+           familyi={H\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{fullhash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{fullhashraw}{e242b3770fcc3812de0af1be93e77392}
+      \strng{bibnamehash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{authorbibnamehash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{authornamehash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{authorfullhash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{authorfullhashraw}{e242b3770fcc3812de0af1be93e77392}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistical Applications in Genetics and Molecular Biology}
+      \field{number}{1}
+      \field{title}{A general framework for weighted gene co-expression network analysis}
+      \field{volume}{4}
+      \field{year}{2005}
+      \field{pages}{Article 17}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2202/1544-6115.1128
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{BanfRhee2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1ba99acc7402ce06621eccb7d4ea57b8}{%
+           family={Banf},
+           familyi={B\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=852336c7efcebf85764351d5603ec4f2}{%
+           family={Rhee},
+           familyi={R\bibinitperiod},
+           given={Seung\bibnamedelima Y.},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{fullhash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{fullhashraw}{84cc04f50be70ce4ac3f330135234552}
+      \strng{bibnamehash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{authorbibnamehash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{authornamehash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{authorfullhash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{authorfullhashraw}{84cc04f50be70ce4ac3f330135234552}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biochimica et Biophysica Acta - Gene Regulatory Mechanisms}
+      \field{number}{1}
+      \field{title}{Computational inference of gene regulatory networks: Approaches, limitations and opportunities}
+      \field{volume}{1860}
+      \field{year}{2017}
+      \field{pages}{41\bibrangedash 52}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.bbagrm.2016.09.003
+      \endverb
+    \endentry
+    \entry{Bascompte2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b71c47fff97792c37706210243e23ae5}{%
+           family={Bascompte},
+           familyi={B\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b71c47fff97792c37706210243e23ae5}
+      \strng{fullhash}{b71c47fff97792c37706210243e23ae5}
+      \strng{fullhashraw}{b71c47fff97792c37706210243e23ae5}
+      \strng{bibnamehash}{b71c47fff97792c37706210243e23ae5}
+      \strng{authorbibnamehash}{b71c47fff97792c37706210243e23ae5}
+      \strng{authornamehash}{b71c47fff97792c37706210243e23ae5}
+      \strng{authorfullhash}{b71c47fff97792c37706210243e23ae5}
+      \strng{authorfullhashraw}{b71c47fff97792c37706210243e23ae5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{5939}
+      \field{title}{Disentangling the web of life}
+      \field{volume}{325}
+      \field{year}{2009}
+      \field{pages}{416\bibrangedash 419}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1170749
+      \endverb
+    \endentry
+    \entry{Beagrie2017}{article}{}{}
+      \name{author}{17}{}{%
+        {{un=0,uniquepart=base,hash=3b65ecfe0b4295b6a5863f3028e23d1f}{%
+           family={Beagrie},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2539f997af0eb99b97bbd112816d375f}{%
+           family={Scialdone},
+           familyi={S\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22378fda1b3e9da4e87a65e5a3869dad}{%
+           family={Schueler},
+           familyi={S\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=604919c35840f355dcd62a39cb3d3daf}{%
+           family={Kraemer},
+           familyi={K\bibinitperiod},
+           given={Daniel\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5df4dbe672da88adc29f8609ea65b00f}{%
+           family={Chotalia},
+           familyi={C\bibinitperiod},
+           given={Minal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a89623cf8829f0146a66037a158dd5c3}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Shuqian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d7eb28c3721ecc01996e33503f2e50a}{%
+           family={Barbieri},
+           familyi={B\bibinitperiod},
+           given={Marcello},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=796682df86d4b1619187c8340d8d36b8}{%
+           family={Santiago},
+           familyi={S\bibinitperiod},
+           given={Ignacio},
+           giveni={I\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=dff130d879794e4f31133a07399781cb}{%
+           family={Lavitas},
+           familyi={L\bibinitperiod},
+           given={Lisa\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=360deadb38aeebb21e22fad5df2dc434}{%
+           family={Branco},
+           familyi={B\bibinitperiod},
+           given={Marta\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c9df78eda4841417323110ac23f6bdb}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54686823b5d102eace03a118529bd9b5}{%
+           family={Dostie},
+           familyi={D\bibinitperiod},
+           given={Josée},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30480abf5646cceb25df170b815a9215}{%
+           family={Game},
+           familyi={G\bibinitperiod},
+           given={Laurence},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=675249ccfb8d7507c4c44d3b837d064e}{%
+           family={Dillon},
+           familyi={D\bibinitperiod},
+           given={Niall},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c06811e48c30c949f19d618d71153a3}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={Paul\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19724b3b2f31928e28be44cd986b80d6}{%
+           family={Nicodemi},
+           familyi={N\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e58242642380bd319c1694eec4e76754}{%
+           family={Pombo},
+           familyi={P\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0a28850713fe2c584c786511c1346126}
+      \strng{fullhash}{5c28dcde8af514f225f2cdcad07ac99f}
+      \strng{fullhashraw}{5c28dcde8af514f225f2cdcad07ac99f}
+      \strng{bibnamehash}{5c28dcde8af514f225f2cdcad07ac99f}
+      \strng{authorbibnamehash}{5c28dcde8af514f225f2cdcad07ac99f}
+      \strng{authornamehash}{0a28850713fe2c584c786511c1346126}
+      \strng{authorfullhash}{5c28dcde8af514f225f2cdcad07ac99f}
+      \strng{authorfullhashraw}{5c28dcde8af514f225f2cdcad07ac99f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{7646}
+      \field{title}{Complex multi-enhancer contacts captured by genome architecture mapping}
+      \field{volume}{543}
+      \field{year}{2017}
+      \field{pages}{519\bibrangedash 524}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/nature21411
+      \endverb
+    \endentry
+    \entry{BullmoreSporns2009}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8a5528818865dbabbeb704ddc9b3100e}{%
+           family={Bullmore},
+           familyi={B\bibinitperiod},
+           given={Ed},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45ad603551aca6e1246f0e73c18c6eed}{%
+           family={Sporns},
+           familyi={S\bibinitperiod},
+           given={Olaf},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{fullhash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{fullhashraw}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{bibnamehash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{authorbibnamehash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{authornamehash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{authorfullhash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{authorfullhashraw}{c72017c2d2caa46d1be3f49dda5db011}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Reviews Neuroscience}
+      \field{number}{3}
+      \field{title}{Complex brain networks: graph theoretical analysis of structural and functional systems}
+      \field{volume}{10}
+      \field{year}{2009}
+      \field{pages}{186\bibrangedash 198}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1038/nrn2575
+      \endverb
+    \endentry
+    \entry{Dunne2002}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0237443e40e8da6ce9c48089ad28c91b}{%
+           family={Dunne},
+           familyi={D\bibinitperiod},
+           given={Jennifer\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8bf10ed4f0afb794613214b847bea1fd}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ae2470ca065d7ef410b50b1e3575d2a}{%
+           family={Martinez},
+           familyi={M\bibinitperiod},
+           given={Neo\bibnamedelima D.},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5db80e371e0829eb3a539515cd5c6cf0}
+      \strng{fullhash}{222c25dd3471207ba331f9d031dc4633}
+      \strng{fullhashraw}{222c25dd3471207ba331f9d031dc4633}
+      \strng{bibnamehash}{222c25dd3471207ba331f9d031dc4633}
+      \strng{authorbibnamehash}{222c25dd3471207ba331f9d031dc4633}
+      \strng{authornamehash}{5db80e371e0829eb3a539515cd5c6cf0}
+      \strng{authorfullhash}{222c25dd3471207ba331f9d031dc4633}
+      \strng{authorfullhashraw}{222c25dd3471207ba331f9d031dc4633}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecology Letters}
+      \field{number}{4}
+      \field{title}{Network structure and biodiversity loss in food webs: robustness increases with connectance}
+      \field{volume}{5}
+      \field{year}{2002}
+      \field{pages}{558\bibrangedash 567}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1046/j.1461-0248.2002.00354.x
+      \endverb
+    \endentry
+    \entry{Elowitz2002}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=172d917eef79d80ede6ac97ef3cfb264}{%
+           family={Elowitz},
+           familyi={E\bibinitperiod},
+           given={Michael\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cff54519aaf69cd3a95abd91fc0a1b2}{%
+           family={Levine},
+           familyi={L\bibinitperiod},
+           given={Arnold\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=232fe6f0d8549f2fe8607cc9ff28dda1}{%
+           family={Siggia},
+           familyi={S\bibinitperiod},
+           given={Eric\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=654a2b16a78ef3f2363bd043c12ee9d9}{%
+           family={Swain},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{afcecdeeae6ebf9ab43768333ff87600}
+      \strng{fullhash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{fullhashraw}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{bibnamehash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{authorbibnamehash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{authornamehash}{afcecdeeae6ebf9ab43768333ff87600}
+      \strng{authorfullhash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{authorfullhashraw}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{5584}
+      \field{title}{Stochastic gene expression in a single cell}
+      \field{volume}{297}
+      \field{year}{2002}
+      \field{pages}{1183\bibrangedash 1186}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1070919
+      \endverb
+    \endentry
+    \entry{EmmertStreib2015}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c366d0d37b00e25cc0c52232b4966ca9}{%
+           family={Emmert-Streib},
+           familyi={E\bibinithyphendelim S\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05330ee0b485bcd55ec422c84ed865ed}{%
+           family={Dehmer},
+           familyi={D\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{fullhash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{fullhashraw}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{bibnamehash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{authorbibnamehash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{authornamehash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{authorfullhash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{authorfullhashraw}{2f44fa498bf882eb72befffe5f349ace}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Genetics}
+      \field{title}{Biological networks: the microscope of the twenty-first century?}
+      \field{volume}{6}
+      \field{year}{2015}
+      \field{pages}{307}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fgene.2015.00307
+      \endverb
+    \endentry
+    \entry{EmmertStreib2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c366d0d37b00e25cc0c52232b4966ca9}{%
+           family={Emmert-Streib},
+           familyi={E\bibinithyphendelim S\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05330ee0b485bcd55ec422c84ed865ed}{%
+           family={Dehmer},
+           familyi={D\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=219737c77284dde2d13b3a26fe4020c6}{%
+           family={Haibe-Kains},
+           familyi={H\bibinithyphendelim K\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{688da31b8ec3bf7ee3e1e8ec5db764f1}
+      \strng{fullhash}{a3e10f39e231484df54112098f7c34aa}
+      \strng{fullhashraw}{a3e10f39e231484df54112098f7c34aa}
+      \strng{bibnamehash}{a3e10f39e231484df54112098f7c34aa}
+      \strng{authorbibnamehash}{a3e10f39e231484df54112098f7c34aa}
+      \strng{authornamehash}{688da31b8ec3bf7ee3e1e8ec5db764f1}
+      \strng{authorfullhash}{a3e10f39e231484df54112098f7c34aa}
+      \strng{authorfullhashraw}{a3e10f39e231484df54112098f7c34aa}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Cell and Developmental Biology}
+      \field{title}{Gene regulatory networks and their applications: understanding biological and medical problems in terms of networks}
+      \field{volume}{2}
+      \field{year}{2014}
+      \field{pages}{38}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fcell.2014.00038
+      \endverb
+    \endentry
+    \entry{Jeong2001}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f0f51cd5afc669d57dbff9b8e913c55c}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Hawoong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=321211e200f9843612f68b56ae41f1a6}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Sean\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15bacd7ddfc866c5dd96976d4b0244d5}{%
+           family={Barabási},
+           familyi={B\bibinitperiod},
+           given={Albert-László},
+           giveni={A\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1a7e493e4ebe40d2280fd8aba2e69f4}{%
+           family={Oltvai},
+           familyi={O\bibinitperiod},
+           given={Zoltán\bibnamedelima N.},
+           giveni={Z\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b3c661f8d00cd663ddc7f8e453a0d221}
+      \strng{fullhash}{6eda3f18c536b043b11d0a29cd32c608}
+      \strng{fullhashraw}{6eda3f18c536b043b11d0a29cd32c608}
+      \strng{bibnamehash}{6eda3f18c536b043b11d0a29cd32c608}
+      \strng{authorbibnamehash}{6eda3f18c536b043b11d0a29cd32c608}
+      \strng{authornamehash}{b3c661f8d00cd663ddc7f8e453a0d221}
+      \strng{authorfullhash}{6eda3f18c536b043b11d0a29cd32c608}
+      \strng{authorfullhashraw}{6eda3f18c536b043b11d0a29cd32c608}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{6833}
+      \field{title}{Lethality and centrality in protein networks}
+      \field{volume}{411}
+      \field{year}{2001}
+      \field{pages}{41\bibrangedash 42}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1038/35075138
+      \endverb
+    \endentry
+    \entry{Kauffman1969}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a447063ee328386c8ceba6c257ab6bc9}{%
+           family={Kauffman},
+           familyi={K\bibinitperiod},
+           given={Stuart\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{fullhash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{fullhashraw}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{bibnamehash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{authorbibnamehash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{authornamehash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{authorfullhash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{authorfullhashraw}{a447063ee328386c8ceba6c257ab6bc9}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Theoretical Biology}
+      \field{number}{3}
+      \field{title}{Metabolic stability and epigenesis in randomly constructed genetic nets}
+      \field{volume}{22}
+      \field{year}{1969}
+      \field{pages}{437\bibrangedash 467}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1016/0022-5193(69)90015-0
+      \endverb
+    \endentry
+    \entry{Koutrouli2020}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=93792d1ac2964d9aff8858691d2eee7d}{%
+           family={Koutrouli},
+           familyi={K\bibinitperiod},
+           given={Mikaela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad077bc53a031b8849522cd55bba4f73}{%
+           family={Karatzas},
+           familyi={K\bibinitperiod},
+           given={Evangelos},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7bda81ee1d9c6cfd40aad4a52f17cc1}{%
+           family={Paez-Espino},
+           familyi={P\bibinithyphendelim E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0087d9b97de9555720996d74b66fb60b}{%
+           family={Pavlopoulos},
+           familyi={P\bibinitperiod},
+           given={Georgios\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{591ab8f6469d117abf1a321f7a5ad71d}
+      \strng{fullhash}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \strng{fullhashraw}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \strng{bibnamehash}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \strng{authorbibnamehash}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \strng{authornamehash}{591ab8f6469d117abf1a321f7a5ad71d}
+      \strng{authorfullhash}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \strng{authorfullhashraw}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Bioengineering and Biotechnology}
+      \field{title}{A guide to conquer the biological network era using graph theory}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{pages}{34}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fbioe.2020.00034
+      \endverb
+    \endentry
+    \entry{KrauseLusseauJames2009}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e8522f69e0b7ebdc1f923ae82d7449b0}{%
+           family={Krause},
+           familyi={K\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5387220716bcf37eb381b7f64e3003b}{%
+           family={Lusseau},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6db3c5ae1ca380e804836bbb90bd8a6}{%
+           family={James},
+           familyi={J\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{44d730f6fc84f11fb5b9588dc94f81a4}
+      \strng{fullhash}{9244f380af8eb74792ed183325aa23a3}
+      \strng{fullhashraw}{9244f380af8eb74792ed183325aa23a3}
+      \strng{bibnamehash}{9244f380af8eb74792ed183325aa23a3}
+      \strng{authorbibnamehash}{9244f380af8eb74792ed183325aa23a3}
+      \strng{authornamehash}{44d730f6fc84f11fb5b9588dc94f81a4}
+      \strng{authorfullhash}{9244f380af8eb74792ed183325aa23a3}
+      \strng{authorfullhashraw}{9244f380af8eb74792ed183325aa23a3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavioral Ecology and Sociobiology}
+      \field{number}{7}
+      \field{title}{Animal social networks: an introduction}
+      \field{volume}{63}
+      \field{year}{2009}
+      \field{pages}{967\bibrangedash 973}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1007/s00265-009-0747-0
+      \endverb
+    \endentry
+    \entry{ManganAlon2003}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=34ac788045355582638259e682aef69e}{%
+           family={Mangan},
+           familyi={M\bibinitperiod},
+           given={Shalev},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0026e806b0c3123f7fb978a2c810b66}{%
+           family={Alon},
+           familyi={A\bibinitperiod},
+           given={Uri},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{fullhash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{fullhashraw}{cf479be799838e0ff4e2b74258559a97}
+      \strng{bibnamehash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{authorbibnamehash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{authornamehash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{authorfullhash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{authorfullhashraw}{cf479be799838e0ff4e2b74258559a97}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{21}
+      \field{title}{Structure and function of the feed-forward loop network motif}
+      \field{volume}{100}
+      \field{year}{2003}
+      \field{pages}{11980\bibrangedash 11985}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.2133841100
+      \endverb
+    \endentry
+    \entry{Mittal2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a917e8e3b79d884fbd50f0f5f8abfdb7}{%
+           family={Mittal},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b5e560aa459e80e94d0228ab17869d6}{%
+           family={Narayanan},
+           familyi={N\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{fullhash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{fullhashraw}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{bibnamehash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{authorbibnamehash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{authornamehash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{authorfullhash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{authorfullhashraw}{eefdfbf694f10913d1ef9b7439729261}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trends in Neurosciences}
+      \field{number}{7}
+      \field{title}{Network motifs in cellular neurophysiology}
+      \field{volume}{47}
+      \field{year}{2024}
+      \field{pages}{506\bibrangedash 521}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.tins.2024.04.008
+      \endverb
+    \endentry
+    \entry{ZhangHorvath2005}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=edefadf2737f4300dd8a9daa07b31f02}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Bin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f520a749adbb878b4ba30b3f54e0dad8}{%
+           family={Horvath},
+           familyi={H\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{fullhash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{fullhashraw}{e242b3770fcc3812de0af1be93e77392}
+      \strng{bibnamehash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{authorbibnamehash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{authornamehash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{authorfullhash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{authorfullhashraw}{e242b3770fcc3812de0af1be93e77392}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistical Applications in Genetics and Molecular Biology}
+      \field{number}{1}
+      \field{title}{A general framework for weighted gene co-expression network analysis}
+      \field{volume}{4}
+      \field{year}{2005}
+      \field{pages}{Article 17}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2202/1544-6115.1128
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
