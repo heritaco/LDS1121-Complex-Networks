@@ -455,6 +455,53 @@
       \verb 10.3389/fcell.2014.00038
       \endverb
     \endentry
+    \entry{Gnanakkumaar2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1e3082b5ab3a5a1c8d1b6ed31ca905dc}{%
+           family={Gnanakkumaar},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4132d0a01bfa5f8b903e959974c4796c}{%
+           family={Murugesan},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0691b88f11d02f95cd2e209b3a63165a}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Syed\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6d1ab4f248c3f96a95c7a53b4001aa36}
+      \strng{fullhash}{6c62184967be8079a037cdb6c68eff0c}
+      \strng{fullhashraw}{6c62184967be8079a037cdb6c68eff0c}
+      \strng{bibnamehash}{6c62184967be8079a037cdb6c68eff0c}
+      \strng{authorbibnamehash}{6c62184967be8079a037cdb6c68eff0c}
+      \strng{authornamehash}{6d1ab4f248c3f96a95c7a53b4001aa36}
+      \strng{authorfullhash}{6c62184967be8079a037cdb6c68eff0c}
+      \strng{authorfullhashraw}{6c62184967be8079a037cdb6c68eff0c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{number}{1}
+      \field{title}{Gene regulatory networks in peripheral mononuclear cells reveals critical regulatory modules and regulators of multiple sclerosis}
+      \field{volume}{9}
+      \field{year}{2019}
+      \field{pages}{12732}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-019-49124-x
+      \endverb
+    \endentry
     \entry{Jeong2001}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=f0f51cd5afc669d57dbff9b8e913c55c}{%
@@ -506,6 +553,59 @@
       \range{pages}{2}
       \verb{doi}
       \verb 10.1038/35075138
+      \endverb
+    \endentry
+    \entry{Joy2005}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e8a0c6a62158d7fb2154138fddf9df21}{%
+           family={Joy},
+           familyi={J\bibinitperiod},
+           given={M.\bibnamedelimi P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96b6296519799402ddbeee75f90c1ddc}{%
+           family={Brock},
+           familyi={B\bibinitperiod},
+           given={Avinoam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e245233a7582a8c5b8a756f1232f6789}{%
+           family={Ingber},
+           familyi={I\bibinitperiod},
+           given={Donald\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8abfc9882948abcf1e8f8e8cb9ce676c}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Sui},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1a33dc6d48d84dd4c0ee762b1119efea}
+      \strng{fullhash}{2629d5789febd2c71f4f1f0b08f44524}
+      \strng{fullhashraw}{2629d5789febd2c71f4f1f0b08f44524}
+      \strng{bibnamehash}{2629d5789febd2c71f4f1f0b08f44524}
+      \strng{authorbibnamehash}{2629d5789febd2c71f4f1f0b08f44524}
+      \strng{authornamehash}{1a33dc6d48d84dd4c0ee762b1119efea}
+      \strng{authorfullhash}{2629d5789febd2c71f4f1f0b08f44524}
+      \strng{authorfullhashraw}{2629d5789febd2c71f4f1f0b08f44524}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Biomedicine and Biotechnology}
+      \field{number}{2}
+      \field{title}{High-betweenness proteins in the yeast protein interaction network}
+      \field{volume}{2005}
+      \field{year}{2005}
+      \field{pages}{96\bibrangedash 103}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1155/JBB.2005.96
       \endverb
     \endentry
     \entry{Kauffman1969}{article}{}{}
@@ -683,6 +783,53 @@
       \verb 10.1073/pnas.2133841100
       \endverb
     \endentry
+    \entry{Memmott2004}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=31513becf86a77e466d85745d0461633}{%
+           family={Memmott},
+           familyi={M\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=079fd481194bf9e566143311c8229bbc}{%
+           family={Waser},
+           familyi={W\bibinitperiod},
+           given={Nickolas\bibnamedelima M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9506f779f192e4dfc39c93d9deb4c84e}{%
+           family={Price},
+           familyi={P\bibinitperiod},
+           given={Mary\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ebbded424ac0733fc4509ca81075a9ec}
+      \strng{fullhash}{01d76d84f9c2a72a38109e9c1d42be25}
+      \strng{fullhashraw}{01d76d84f9c2a72a38109e9c1d42be25}
+      \strng{bibnamehash}{01d76d84f9c2a72a38109e9c1d42be25}
+      \strng{authorbibnamehash}{01d76d84f9c2a72a38109e9c1d42be25}
+      \strng{authornamehash}{ebbded424ac0733fc4509ca81075a9ec}
+      \strng{authorfullhash}{01d76d84f9c2a72a38109e9c1d42be25}
+      \strng{authorfullhashraw}{01d76d84f9c2a72a38109e9c1d42be25}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Royal Society B: Biological Sciences}
+      \field{number}{1557}
+      \field{title}{Tolerance of pollination networks to species extinctions}
+      \field{volume}{271}
+      \field{year}{2004}
+      \field{pages}{2605\bibrangedash 2611}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1098/rspb.2004.2909
+      \endverb
+    \endentry
     \entry{Mittal2024}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a917e8e3b79d884fbd50f0f5f8abfdb7}{%
@@ -724,6 +871,153 @@
       \verb 10.1016/j.tins.2024.04.008
       \endverb
     \endentry
+    \entry{Olesen2007}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7a358f314311e399f7f1ef559f1a17ff}{%
+           family={Olesen},
+           familyi={O\bibinitperiod},
+           given={Jens\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b71c47fff97792c37706210243e23ae5}{%
+           family={Bascompte},
+           familyi={B\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78abb23bdef7c6493cf600d5e1d85212}{%
+           family={Dupont},
+           familyi={D\bibinitperiod},
+           given={Yoko\bibnamedelima L.},
+           giveni={Y\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6989b4e5f87b7100722669ce27436978}{%
+           family={Jordano},
+           familyi={J\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{32f106035e2e09320e9bca2f3525f6aa}
+      \strng{fullhash}{fab326c42dbf8ba4621e0397f1c3006f}
+      \strng{fullhashraw}{fab326c42dbf8ba4621e0397f1c3006f}
+      \strng{bibnamehash}{fab326c42dbf8ba4621e0397f1c3006f}
+      \strng{authorbibnamehash}{fab326c42dbf8ba4621e0397f1c3006f}
+      \strng{authornamehash}{32f106035e2e09320e9bca2f3525f6aa}
+      \strng{authorfullhash}{fab326c42dbf8ba4621e0397f1c3006f}
+      \strng{authorfullhashraw}{fab326c42dbf8ba4621e0397f1c3006f}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{50}
+      \field{title}{The modularity of pollination networks}
+      \field{volume}{104}
+      \field{year}{2007}
+      \field{pages}{19891\bibrangedash 19896}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.0706375104
+      \endverb
+    \endentry
+    \entry{ShenOrr2002}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=71b1b4504c7faf35a2d50efdacaed68c}{%
+           family={Shen-Orr},
+           familyi={S\bibinithyphendelim O\bibinitperiod},
+           given={Shai\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fed56718464421f939e0b0d84997792}{%
+           family={Milo},
+           familyi={M\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34ac788045355582638259e682aef69e}{%
+           family={Mangan},
+           familyi={M\bibinitperiod},
+           given={Shalev},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0026e806b0c3123f7fb978a2c810b66}{%
+           family={Alon},
+           familyi={A\bibinitperiod},
+           given={Uri},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b9c40be5605c0b196d16337d83e1d93e}
+      \strng{fullhash}{543e18d275afc446f2f2386d3236db46}
+      \strng{fullhashraw}{543e18d275afc446f2f2386d3236db46}
+      \strng{bibnamehash}{543e18d275afc446f2f2386d3236db46}
+      \strng{authorbibnamehash}{543e18d275afc446f2f2386d3236db46}
+      \strng{authornamehash}{b9c40be5605c0b196d16337d83e1d93e}
+      \strng{authorfullhash}{543e18d275afc446f2f2386d3236db46}
+      \strng{authorfullhashraw}{543e18d275afc446f2f2386d3236db46}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Genetics}
+      \field{number}{1}
+      \field{title}{Network motifs in the transcriptional regulation network of {Escherichia coli}}
+      \field{volume}{31}
+      \field{year}{2002}
+      \field{pages}{64\bibrangedash 68}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/ng881
+      \endverb
+    \endentry
+    \entry{Smits2016}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=43bd95453889320c47ca7ad2565a78bf}{%
+           family={Smits},
+           familyi={S\bibinitperiod},
+           given={Arne\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e0486b0795d5893b3e6193874e7be20}{%
+           family={Vermeulen},
+           familyi={V\bibinitperiod},
+           given={Michiel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{fullhash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{fullhashraw}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{bibnamehash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{authorbibnamehash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{authornamehash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{authorfullhash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{authorfullhashraw}{a722a30fa69588c36af50b1f9777ebf1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trends in Biotechnology}
+      \field{number}{10}
+      \field{title}{Characterizing protein--protein interactions using mass spectrometry: challenges and opportunities}
+      \field{volume}{34}
+      \field{year}{2016}
+      \field{pages}{825\bibrangedash 834}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.tibtech.2016.02.014
+      \endverb
+    \endentry
     \entry{ZhangHorvath2005}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=edefadf2737f4300dd8a9daa07b31f02}{%
@@ -763,6 +1057,59 @@
       \range{pages}{-1}
       \verb{doi}
       \verb 10.2202/1544-6115.1128
+      \endverb
+    \endentry
+    \entry{Zheng2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4edf0e7dcf19ec551aecc2cc9cd6f21e}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Peng-Fei},
+           giveni={P\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5991f0293c280ea26ee7b7ed015d9cb}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Lu-Zhu},
+           giveni={L\bibinithyphendelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f965021782d76a0d9e760c8bfe19f0e8}{%
+           family={Guan},
+           familyi={G\bibinitperiod},
+           given={Yao-Zong},
+           giveni={Y\bibinithyphendelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c112d9d43345185672db278b5111bc4}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2c236b635d98c9ab900dc10b9f281249}
+      \strng{fullhash}{ede08aff21534548191588f344464ede}
+      \strng{fullhashraw}{ede08aff21534548191588f344464ede}
+      \strng{bibnamehash}{ede08aff21534548191588f344464ede}
+      \strng{authorbibnamehash}{ede08aff21534548191588f344464ede}
+      \strng{authornamehash}{2c236b635d98c9ab900dc10b9f281249}
+      \strng{authorfullhash}{ede08aff21534548191588f344464ede}
+      \strng{authorfullhashraw}{ede08aff21534548191588f344464ede}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{number}{1}
+      \field{title}{Weighted gene co-expression network analysis identifies specific modules and hub genes related to coronary artery disease}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{pages}{6711}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-021-86207-0
       \endverb
     \endentry
   \enddatalist
@@ -1203,6 +1550,53 @@
       \verb 10.3389/fcell.2014.00038
       \endverb
     \endentry
+    \entry{Gnanakkumaar2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1e3082b5ab3a5a1c8d1b6ed31ca905dc}{%
+           family={Gnanakkumaar},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4132d0a01bfa5f8b903e959974c4796c}{%
+           family={Murugesan},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0691b88f11d02f95cd2e209b3a63165a}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Syed\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6d1ab4f248c3f96a95c7a53b4001aa36}
+      \strng{fullhash}{6c62184967be8079a037cdb6c68eff0c}
+      \strng{fullhashraw}{6c62184967be8079a037cdb6c68eff0c}
+      \strng{bibnamehash}{6c62184967be8079a037cdb6c68eff0c}
+      \strng{authorbibnamehash}{6c62184967be8079a037cdb6c68eff0c}
+      \strng{authornamehash}{6d1ab4f248c3f96a95c7a53b4001aa36}
+      \strng{authorfullhash}{6c62184967be8079a037cdb6c68eff0c}
+      \strng{authorfullhashraw}{6c62184967be8079a037cdb6c68eff0c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{number}{1}
+      \field{title}{Gene regulatory networks in peripheral mononuclear cells reveals critical regulatory modules and regulators of multiple sclerosis}
+      \field{volume}{9}
+      \field{year}{2019}
+      \field{pages}{12732}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-019-49124-x
+      \endverb
+    \endentry
     \entry{Jeong2001}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=f0f51cd5afc669d57dbff9b8e913c55c}{%
@@ -1254,6 +1648,59 @@
       \range{pages}{2}
       \verb{doi}
       \verb 10.1038/35075138
+      \endverb
+    \endentry
+    \entry{Joy2005}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e8a0c6a62158d7fb2154138fddf9df21}{%
+           family={Joy},
+           familyi={J\bibinitperiod},
+           given={M.\bibnamedelimi P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96b6296519799402ddbeee75f90c1ddc}{%
+           family={Brock},
+           familyi={B\bibinitperiod},
+           given={Avinoam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e245233a7582a8c5b8a756f1232f6789}{%
+           family={Ingber},
+           familyi={I\bibinitperiod},
+           given={Donald\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8abfc9882948abcf1e8f8e8cb9ce676c}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Sui},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1a33dc6d48d84dd4c0ee762b1119efea}
+      \strng{fullhash}{2629d5789febd2c71f4f1f0b08f44524}
+      \strng{fullhashraw}{2629d5789febd2c71f4f1f0b08f44524}
+      \strng{bibnamehash}{2629d5789febd2c71f4f1f0b08f44524}
+      \strng{authorbibnamehash}{2629d5789febd2c71f4f1f0b08f44524}
+      \strng{authornamehash}{1a33dc6d48d84dd4c0ee762b1119efea}
+      \strng{authorfullhash}{2629d5789febd2c71f4f1f0b08f44524}
+      \strng{authorfullhashraw}{2629d5789febd2c71f4f1f0b08f44524}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Biomedicine and Biotechnology}
+      \field{number}{2}
+      \field{title}{High-betweenness proteins in the yeast protein interaction network}
+      \field{volume}{2005}
+      \field{year}{2005}
+      \field{pages}{96\bibrangedash 103}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1155/JBB.2005.96
       \endverb
     \endentry
     \entry{Kauffman1969}{article}{}{}
@@ -1431,6 +1878,53 @@
       \verb 10.1073/pnas.2133841100
       \endverb
     \endentry
+    \entry{Memmott2004}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=31513becf86a77e466d85745d0461633}{%
+           family={Memmott},
+           familyi={M\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=079fd481194bf9e566143311c8229bbc}{%
+           family={Waser},
+           familyi={W\bibinitperiod},
+           given={Nickolas\bibnamedelima M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9506f779f192e4dfc39c93d9deb4c84e}{%
+           family={Price},
+           familyi={P\bibinitperiod},
+           given={Mary\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ebbded424ac0733fc4509ca81075a9ec}
+      \strng{fullhash}{01d76d84f9c2a72a38109e9c1d42be25}
+      \strng{fullhashraw}{01d76d84f9c2a72a38109e9c1d42be25}
+      \strng{bibnamehash}{01d76d84f9c2a72a38109e9c1d42be25}
+      \strng{authorbibnamehash}{01d76d84f9c2a72a38109e9c1d42be25}
+      \strng{authornamehash}{ebbded424ac0733fc4509ca81075a9ec}
+      \strng{authorfullhash}{01d76d84f9c2a72a38109e9c1d42be25}
+      \strng{authorfullhashraw}{01d76d84f9c2a72a38109e9c1d42be25}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Royal Society B: Biological Sciences}
+      \field{number}{1557}
+      \field{title}{Tolerance of pollination networks to species extinctions}
+      \field{volume}{271}
+      \field{year}{2004}
+      \field{pages}{2605\bibrangedash 2611}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1098/rspb.2004.2909
+      \endverb
+    \endentry
     \entry{Mittal2024}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a917e8e3b79d884fbd50f0f5f8abfdb7}{%
@@ -1472,6 +1966,153 @@
       \verb 10.1016/j.tins.2024.04.008
       \endverb
     \endentry
+    \entry{Olesen2007}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7a358f314311e399f7f1ef559f1a17ff}{%
+           family={Olesen},
+           familyi={O\bibinitperiod},
+           given={Jens\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b71c47fff97792c37706210243e23ae5}{%
+           family={Bascompte},
+           familyi={B\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78abb23bdef7c6493cf600d5e1d85212}{%
+           family={Dupont},
+           familyi={D\bibinitperiod},
+           given={Yoko\bibnamedelima L.},
+           giveni={Y\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6989b4e5f87b7100722669ce27436978}{%
+           family={Jordano},
+           familyi={J\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{32f106035e2e09320e9bca2f3525f6aa}
+      \strng{fullhash}{fab326c42dbf8ba4621e0397f1c3006f}
+      \strng{fullhashraw}{fab326c42dbf8ba4621e0397f1c3006f}
+      \strng{bibnamehash}{fab326c42dbf8ba4621e0397f1c3006f}
+      \strng{authorbibnamehash}{fab326c42dbf8ba4621e0397f1c3006f}
+      \strng{authornamehash}{32f106035e2e09320e9bca2f3525f6aa}
+      \strng{authorfullhash}{fab326c42dbf8ba4621e0397f1c3006f}
+      \strng{authorfullhashraw}{fab326c42dbf8ba4621e0397f1c3006f}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{50}
+      \field{title}{The modularity of pollination networks}
+      \field{volume}{104}
+      \field{year}{2007}
+      \field{pages}{19891\bibrangedash 19896}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.0706375104
+      \endverb
+    \endentry
+    \entry{ShenOrr2002}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=71b1b4504c7faf35a2d50efdacaed68c}{%
+           family={Shen-Orr},
+           familyi={S\bibinithyphendelim O\bibinitperiod},
+           given={Shai\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fed56718464421f939e0b0d84997792}{%
+           family={Milo},
+           familyi={M\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34ac788045355582638259e682aef69e}{%
+           family={Mangan},
+           familyi={M\bibinitperiod},
+           given={Shalev},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0026e806b0c3123f7fb978a2c810b66}{%
+           family={Alon},
+           familyi={A\bibinitperiod},
+           given={Uri},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b9c40be5605c0b196d16337d83e1d93e}
+      \strng{fullhash}{543e18d275afc446f2f2386d3236db46}
+      \strng{fullhashraw}{543e18d275afc446f2f2386d3236db46}
+      \strng{bibnamehash}{543e18d275afc446f2f2386d3236db46}
+      \strng{authorbibnamehash}{543e18d275afc446f2f2386d3236db46}
+      \strng{authornamehash}{b9c40be5605c0b196d16337d83e1d93e}
+      \strng{authorfullhash}{543e18d275afc446f2f2386d3236db46}
+      \strng{authorfullhashraw}{543e18d275afc446f2f2386d3236db46}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Genetics}
+      \field{number}{1}
+      \field{title}{Network motifs in the transcriptional regulation network of {Escherichia coli}}
+      \field{volume}{31}
+      \field{year}{2002}
+      \field{pages}{64\bibrangedash 68}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/ng881
+      \endverb
+    \endentry
+    \entry{Smits2016}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=43bd95453889320c47ca7ad2565a78bf}{%
+           family={Smits},
+           familyi={S\bibinitperiod},
+           given={Arne\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e0486b0795d5893b3e6193874e7be20}{%
+           family={Vermeulen},
+           familyi={V\bibinitperiod},
+           given={Michiel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{fullhash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{fullhashraw}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{bibnamehash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{authorbibnamehash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{authornamehash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{authorfullhash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{authorfullhashraw}{a722a30fa69588c36af50b1f9777ebf1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trends in Biotechnology}
+      \field{number}{10}
+      \field{title}{Characterizing protein--protein interactions using mass spectrometry: challenges and opportunities}
+      \field{volume}{34}
+      \field{year}{2016}
+      \field{pages}{825\bibrangedash 834}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.tibtech.2016.02.014
+      \endverb
+    \endentry
     \entry{ZhangHorvath2005}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=edefadf2737f4300dd8a9daa07b31f02}{%
@@ -1511,6 +2152,59 @@
       \range{pages}{-1}
       \verb{doi}
       \verb 10.2202/1544-6115.1128
+      \endverb
+    \endentry
+    \entry{Zheng2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4edf0e7dcf19ec551aecc2cc9cd6f21e}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Peng-Fei},
+           giveni={P\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5991f0293c280ea26ee7b7ed015d9cb}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Lu-Zhu},
+           giveni={L\bibinithyphendelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f965021782d76a0d9e760c8bfe19f0e8}{%
+           family={Guan},
+           familyi={G\bibinitperiod},
+           given={Yao-Zong},
+           giveni={Y\bibinithyphendelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c112d9d43345185672db278b5111bc4}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2c236b635d98c9ab900dc10b9f281249}
+      \strng{fullhash}{ede08aff21534548191588f344464ede}
+      \strng{fullhashraw}{ede08aff21534548191588f344464ede}
+      \strng{bibnamehash}{ede08aff21534548191588f344464ede}
+      \strng{authorbibnamehash}{ede08aff21534548191588f344464ede}
+      \strng{authornamehash}{2c236b635d98c9ab900dc10b9f281249}
+      \strng{authorfullhash}{ede08aff21534548191588f344464ede}
+      \strng{authorfullhashraw}{ede08aff21534548191588f344464ede}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{number}{1}
+      \field{title}{Weighted gene co-expression network analysis identifies specific modules and hub genes related to coronary artery disease}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{pages}{6711}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-021-86207-0
       \endverb
     \endentry
   \enddatalist

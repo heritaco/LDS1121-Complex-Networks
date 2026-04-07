@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.3.10)  6 APR 2026 05:13
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.3.10)  6 APR 2026 18:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/herie/GitHub/LDS1121-Complex-Networks/notebooks/14 LOAS/main.tex"
-(c:/Users/herie/GitHub/LDS1121-Complex-Networks/notebooks/14 LOAS/main.tex
+**./main.tex
+(main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -240,57 +240,135 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@dimlist=\toks20
 
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
-Package: setspace 2022/12/04 v6.7b set line spacing
+(C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen161
+))
+(C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen162
 )
-(C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count306
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count307
+\leftroot@=\count308
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count309
+\DOTSCASE@=\count310
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen163
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count311
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count312
+\dotsspace@=\muskip17
+\c@parentequation=\count313
+\dspbrk@lvl=\count314
+\tag@help=\toks22
+\row@=\count315
+\column@=\count316
+\maxfields@=\count317
+\andhelp@=\toks23
+\eqnshift@=\dimen164
+\alignsep@=\dimen165
+\tagshift@=\dimen166
+\tagwidth@=\dimen167
+\totwidth@=\dimen168
+\lineht@=\dimen169
+\@envbody=\toks24
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.st
+y
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen161
-\captionmargin=\dimen162
-\caption@leftmargin=\dimen163
-\caption@rightmargin=\dimen164
-\caption@width=\dimen165
-\caption@indent=\dimen166
-\caption@parindent=\dimen167
-\caption@hangindent=\dimen168
+\caption@tempdima=\dimen170
+\captionmargin=\dimen171
+\caption@leftmargin=\dimen172
+\caption@rightmargin=\dimen173
+\caption@width=\dimen174
+\caption@indent=\dimen175
+\caption@parindent=\dimen176
+\caption@hangindent=\dimen177
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count306
-\c@continuedfloat=\count307
+\c@caption@flags=\count318
+\c@continuedfloat=\count319
 )
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
-\ttl@box=\box53
-\beforetitleunit=\skip51
-\aftertitleunit=\skip52
-\ttl@plus=\dimen169
-\ttl@minus=\dimen170
-\ttl@toksa=\toks21
-\titlewidth=\dimen171
-\titlewidthlast=\dimen172
-\titlewidthfirst=\dimen173
+\ttl@box=\box55
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen178
+\ttl@minus=\dimen179
+\ttl@toksa=\toks26
+\titlewidth=\dimen180
+\titlewidthlast=\dimen181
+\titlewidthfirst=\dimen182
 )
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip53
-\f@nch@offset@elh=\skip54
-\f@nch@offset@erh=\skip55
-\f@nch@offset@olh=\skip56
-\f@nch@offset@orh=\skip57
-\f@nch@offset@elf=\skip58
-\f@nch@offset@erf=\skip59
-\f@nch@offset@olf=\skip60
-\f@nch@offset@orf=\skip61
-\f@nch@height=\skip62
-\f@nch@footalignment=\skip63
-\f@nch@widthL=\skip64
-\f@nch@widthC=\skip65
-\f@nch@widthR=\skip66
-\@temptokenb=\toks22
+\f@nch@headwidth=\skip56
+\f@nch@offset@elh=\skip57
+\f@nch@offset@erh=\skip58
+\f@nch@offset@olh=\skip59
+\f@nch@offset@orh=\skip60
+\f@nch@offset@elf=\skip61
+\f@nch@offset@erf=\skip62
+\f@nch@offset@olf=\skip63
+\f@nch@offset@orf=\skip64
+\f@nch@height=\skip65
+\f@nch@footalignment=\skip66
+\f@nch@widthL=\skip67
+\f@nch@widthC=\skip68
+\f@nch@widthR=\skip69
+\@temptokenb=\toks27
 )
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
@@ -358,22 +436,22 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count308
+\c@section@level=\count320
 )
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
 ty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen174
-\Hy@linkcounter=\count309
-\Hy@pagecounter=\count310
+\@linkdim=\dimen183
+\Hy@linkcounter=\count321
+\Hy@pagecounter=\count322
  (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
 ) (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count311
+\Hy@SavedSpaceFactor=\count323
  (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
 )
@@ -384,14 +462,14 @@ Package hyperref Info: Plain pages OFF on input line 4216.
 Package hyperref Info: Backreferencing OFF on input line 4221.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4468.
-\c@Hy@tempcnt=\count312
+\c@Hy@tempcnt=\count324
 
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip17
+\Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4807.
-\XeTeXLinkMargin=\dimen175
+\XeTeXLinkMargin=\dimen184
 
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -401,9 +479,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count313
-\Field@Width=\dimen176
-\Fld@charsize=\dimen177
+\Fld@menulength=\count325
+\Field@Width=\dimen185
+\Fld@charsize=\dimen186
 Package hyperref Info: Hyper figures OFF on input line 6084.
 Package hyperref Info: Link nesting OFF on input line 6089.
 Package hyperref Info: Hyper index ON on input line 6092.
@@ -411,19 +489,19 @@ Package hyperref Info: backreferencing OFF on input line 6099.
 Package hyperref Info: Link coloring OFF on input line 6104.
 Package hyperref Info: Link coloring with OCG OFF on input line 6109.
 Package hyperref Info: PDF/A mode OFF on input line 6114.
-\Hy@abspage=\count314
-\c@Item=\count315
-\c@Hfootnote=\count316
+\Hy@abspage=\count326
+\c@Item=\count327
+\c@Hfootnote=\count328
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
 File: hxetex.def 2026-01-29 v7.01p Hyperref driver for XeTeX
-\pdfm@box=\box54
-\c@Hy@AnnotLevel=\count317
-\HyField@AnnotCount=\count318
-\Fld@listcount=\count319
-\c@bookmark@seq@number=\count320
+\pdfm@box=\box56
+\c@Hy@AnnotLevel=\count329
+\HyField@AnnotCount=\count330
+\Fld@listcount=\count331
+\c@bookmark@seq@number=\count332
 
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -436,14 +514,14 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 84.
 )
-\Hy@SectionHShift=\skip67
+\Hy@SectionHShift=\skip70
 )
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
 
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count321
+\lrq@indent=\count333
 
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -451,63 +529,63 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count322
-\c@listtotal=\count323
-\c@listcount=\count324
-\c@liststart=\count325
-\c@liststop=\count326
-\c@citecount=\count327
-\c@citetotal=\count328
-\c@multicitecount=\count329
-\c@multicitetotal=\count330
-\c@instcount=\count331
-\c@maxnames=\count332
-\c@minnames=\count333
-\c@maxitems=\count334
-\c@minitems=\count335
-\c@citecounter=\count336
-\c@maxcitecounter=\count337
-\c@savedcitecounter=\count338
-\c@uniquelist=\count339
-\c@uniquename=\count340
-\c@refsection=\count341
-\c@refsegment=\count342
-\c@maxextratitle=\count343
-\c@maxextratitleyear=\count344
-\c@maxextraname=\count345
-\c@maxextradate=\count346
-\c@maxextraalpha=\count347
-\c@abbrvpenalty=\count348
-\c@highnamepenalty=\count349
-\c@lownamepenalty=\count350
-\c@maxparens=\count351
-\c@parenlevel=\count352
-\blx@tempcnta=\count353
-\blx@tempcntb=\count354
-\blx@tempcntc=\count355
-\c@blx@maxsection=\count356
-\blx@maxsegment@0=\count357
-\blx@notetype=\count358
-\blx@parenlevel@text=\count359
-\blx@parenlevel@foot=\count360
-\blx@sectionciteorder@0=\count361
-\blx@sectionciteorderinternal@0=\count362
-\blx@entrysetcounter=\count363
-\blx@biblioinstance=\count364
-\labelnumberwidth=\skip68
-\labelalphawidth=\skip69
-\biblabelsep=\skip70
-\bibitemsep=\skip71
-\bibnamesep=\skip72
-\bibinitsep=\skip73
-\bibparsep=\skip74
-\bibhang=\skip75
+\c@tabx@nest=\count334
+\c@listtotal=\count335
+\c@listcount=\count336
+\c@liststart=\count337
+\c@liststop=\count338
+\c@citecount=\count339
+\c@citetotal=\count340
+\c@multicitecount=\count341
+\c@multicitetotal=\count342
+\c@instcount=\count343
+\c@maxnames=\count344
+\c@minnames=\count345
+\c@maxitems=\count346
+\c@minitems=\count347
+\c@citecounter=\count348
+\c@maxcitecounter=\count349
+\c@savedcitecounter=\count350
+\c@uniquelist=\count351
+\c@uniquename=\count352
+\c@refsection=\count353
+\c@refsegment=\count354
+\c@maxextratitle=\count355
+\c@maxextratitleyear=\count356
+\c@maxextraname=\count357
+\c@maxextradate=\count358
+\c@maxextraalpha=\count359
+\c@abbrvpenalty=\count360
+\c@highnamepenalty=\count361
+\c@lownamepenalty=\count362
+\c@maxparens=\count363
+\c@parenlevel=\count364
+\blx@tempcnta=\count365
+\blx@tempcntb=\count366
+\blx@tempcntc=\count367
+\c@blx@maxsection=\count368
+\blx@maxsegment@0=\count369
+\blx@notetype=\count370
+\blx@parenlevel@text=\count371
+\blx@parenlevel@foot=\count372
+\blx@sectionciteorder@0=\count373
+\blx@sectionciteorderinternal@0=\count374
+\blx@entrysetcounter=\count375
+\blx@biblioinstance=\count376
+\labelnumberwidth=\skip71
+\labelalphawidth=\skip72
+\biblabelsep=\skip73
+\bibitemsep=\skip74
+\bibnamesep=\skip75
+\bibinitsep=\skip76
+\bibparsep=\skip77
+\bibhang=\skip78
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
-\c@mincomprange=\count365
-\c@maxcomprange=\count366
-\c@mincompwidth=\count367
+\c@mincomprange=\count377
+\c@maxcomprange=\count378
+\c@mincompwidth=\count379
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -522,98 +600,98 @@ File: apa.dbx 2025/08/27 v9.20 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count368
-\c@savedafterword=\count369
-\c@annotator=\count370
-\c@savedannotator=\count371
-\c@author=\count372
-\c@savedauthor=\count373
-\c@bookauthor=\count374
-\c@savedbookauthor=\count375
-\c@commentator=\count376
-\c@savedcommentator=\count377
-\c@editor=\count378
-\c@savededitor=\count379
-\c@editora=\count380
-\c@savededitora=\count381
-\c@editorb=\count382
-\c@savededitorb=\count383
-\c@editorc=\count384
-\c@savededitorc=\count385
-\c@foreword=\count386
-\c@savedforeword=\count387
-\c@holder=\count388
-\c@savedholder=\count389
-\c@introduction=\count390
-\c@savedintroduction=\count391
-\c@namea=\count392
-\c@savednamea=\count393
-\c@nameb=\count394
-\c@savednameb=\count395
-\c@namec=\count396
-\c@savednamec=\count397
-\c@translator=\count398
-\c@savedtranslator=\count399
-\c@shortauthor=\count400
-\c@savedshortauthor=\count401
-\c@shorteditor=\count402
-\c@savedshorteditor=\count403
-\c@narrator=\count404
-\c@savednarrator=\count405
-\c@execproducer=\count406
-\c@savedexecproducer=\count407
-\c@execdirector=\count408
-\c@savedexecdirector=\count409
-\c@with=\count410
-\c@savedwith=\count411
-\c@labelname=\count412
-\c@savedlabelname=\count413
-\c@institution=\count414
-\c@savedinstitution=\count415
-\c@lista=\count416
-\c@savedlista=\count417
-\c@listb=\count418
-\c@savedlistb=\count419
-\c@listc=\count420
-\c@savedlistc=\count421
-\c@listd=\count422
-\c@savedlistd=\count423
-\c@liste=\count424
-\c@savedliste=\count425
-\c@listf=\count426
-\c@savedlistf=\count427
-\c@location=\count428
-\c@savedlocation=\count429
-\c@organization=\count430
-\c@savedorganization=\count431
-\c@origlocation=\count432
-\c@savedoriglocation=\count433
-\c@origpublisher=\count434
-\c@savedorigpublisher=\count435
-\c@publisher=\count436
-\c@savedpublisher=\count437
-\c@language=\count438
-\c@savedlanguage=\count439
-\c@origlanguage=\count440
-\c@savedoriglanguage=\count441
-\c@citation=\count442
-\c@savedcitation=\count443
-\c@pageref=\count444
-\c@savedpageref=\count445
-\shorthandwidth=\skip76
-\shortjournalwidth=\skip77
-\shortserieswidth=\skip78
-\shorttitlewidth=\skip79
-\shortauthorwidth=\skip80
-\shorteditorwidth=\skip81
-\locallabelnumberwidth=\skip82
-\locallabelalphawidth=\skip83
-\localshorthandwidth=\skip84
-\localshortjournalwidth=\skip85
-\localshortserieswidth=\skip86
-\localshorttitlewidth=\skip87
-\localshortauthorwidth=\skip88
-\localshorteditorwidth=\skip89
+\c@afterword=\count380
+\c@savedafterword=\count381
+\c@annotator=\count382
+\c@savedannotator=\count383
+\c@author=\count384
+\c@savedauthor=\count385
+\c@bookauthor=\count386
+\c@savedbookauthor=\count387
+\c@commentator=\count388
+\c@savedcommentator=\count389
+\c@editor=\count390
+\c@savededitor=\count391
+\c@editora=\count392
+\c@savededitora=\count393
+\c@editorb=\count394
+\c@savededitorb=\count395
+\c@editorc=\count396
+\c@savededitorc=\count397
+\c@foreword=\count398
+\c@savedforeword=\count399
+\c@holder=\count400
+\c@savedholder=\count401
+\c@introduction=\count402
+\c@savedintroduction=\count403
+\c@namea=\count404
+\c@savednamea=\count405
+\c@nameb=\count406
+\c@savednameb=\count407
+\c@namec=\count408
+\c@savednamec=\count409
+\c@translator=\count410
+\c@savedtranslator=\count411
+\c@shortauthor=\count412
+\c@savedshortauthor=\count413
+\c@shorteditor=\count414
+\c@savedshorteditor=\count415
+\c@narrator=\count416
+\c@savednarrator=\count417
+\c@execproducer=\count418
+\c@savedexecproducer=\count419
+\c@execdirector=\count420
+\c@savedexecdirector=\count421
+\c@with=\count422
+\c@savedwith=\count423
+\c@labelname=\count424
+\c@savedlabelname=\count425
+\c@institution=\count426
+\c@savedinstitution=\count427
+\c@lista=\count428
+\c@savedlista=\count429
+\c@listb=\count430
+\c@savedlistb=\count431
+\c@listc=\count432
+\c@savedlistc=\count433
+\c@listd=\count434
+\c@savedlistd=\count435
+\c@liste=\count436
+\c@savedliste=\count437
+\c@listf=\count438
+\c@savedlistf=\count439
+\c@location=\count440
+\c@savedlocation=\count441
+\c@organization=\count442
+\c@savedorganization=\count443
+\c@origlocation=\count444
+\c@savedoriglocation=\count445
+\c@origpublisher=\count446
+\c@savedorigpublisher=\count447
+\c@publisher=\count448
+\c@savedpublisher=\count449
+\c@language=\count450
+\c@savedlanguage=\count451
+\c@origlanguage=\count452
+\c@savedoriglanguage=\count453
+\c@citation=\count454
+\c@savedcitation=\count455
+\c@pageref=\count456
+\c@savedpageref=\count457
+\shorthandwidth=\skip79
+\shortjournalwidth=\skip80
+\shortserieswidth=\skip81
+\shorttitlewidth=\skip82
+\shortauthorwidth=\skip83
+\shorteditorwidth=\skip84
+\locallabelnumberwidth=\skip85
+\locallabelalphawidth=\skip86
+\localshorthandwidth=\skip87
+\localshortjournalwidth=\skip88
+\localshortserieswidth=\skip89
+\localshorttitlewidth=\skip90
+\localshortauthorwidth=\skip91
+\localshorteditorwidth=\skip92
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
 
@@ -629,19 +707,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count446
-\c@textcitetotal=\count447
-\c@textcitemaxnames=\count448
-\c@biburlbigbreakpenalty=\count449
-\c@biburlbreakpenalty=\count450
-\c@biburlnumpenalty=\count451
-\c@biburlucpenalty=\count452
-\c@biburllcpenalty=\count453
-\biburlbigskip=\muskip18
-\biburlnumskip=\muskip19
-\biburlucskip=\muskip20
-\biburllcskip=\muskip21
-\c@smartand=\count454
+\c@textcitecount=\count458
+\c@textcitetotal=\count459
+\c@textcitemaxnames=\count460
+\c@biburlbigbreakpenalty=\count461
+\c@biburlbreakpenalty=\count462
+\c@biburlnumpenalty=\count463
+\c@biburlucpenalty=\count464
+\c@biburllcpenalty=\count465
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count466
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
@@ -653,8 +731,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 (C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
 bx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count455
-\c@bbx:relatedtotal=\count456
+\c@bbx:relatedcount=\count467
+\c@bbx:relatedtotal=\count468
 )
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
 ed, overwriting.
@@ -708,17 +786,17 @@ Package biblatex Info: ... and expl3
 .sty
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 ))
-Package hyperref Info: Option `colorlinks' set `true' on input line 52.
-Package hyperref Info: Option `colorlinks' set `true' on input line 65.
+Package hyperref Info: Option `colorlinks' set `true' on input line 53.
+Package hyperref Info: Option `colorlinks' set `true' on input line 66.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
  (main.aux
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 27.
+(babel)             Reported on input line 19.
 )
 \openout1 = `main.aux'.
 
@@ -749,7 +827,7 @@ Package fontspec Info:
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
-\symlegacymaths=\mathgroup4
+\symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
 (Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 140.
 LaTeX Font Info:    Redeclaring math accent \acute on input line 140.
@@ -762,7 +840,6 @@ LaTeX Font Info:    Redeclaring math accent \check on input line 140.
 LaTeX Font Info:    Redeclaring math accent \hat on input line 140.
 LaTeX Font Info:    Redeclaring math accent \dot on input line 140.
 LaTeX Font Info:    Redeclaring math accent \mathring on input line 140.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 140.
 LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 140.
 LaTeX Font Info:    Redeclaring math symbol \Delta on input line 140.
 LaTeX Font Info:    Redeclaring math symbol \Theta on input line 140.
@@ -884,22 +961,24 @@ Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
 Package biblatex Info: Reference section=0 on input line 140.
 Package biblatex Info: Reference segment=0 on input line 140.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 149.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 149.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 149.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 149.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 149.
- [1
+LaTeX Font Info:    Trying to load font information for U+msa on input line 149
+.
 
-] [2] [3] [4] [5] [6] (main.aux
-LaTeX Info: Redefining \sptext on input line 27.
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
+(C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 149
+.
+
+(C:\Users\herie\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
+
+] [2] [3] [4] [5] [6] [7] [8] [9] [10] (main.aux
+LaTeX Info: Redefining \sptext on input line 19.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
 )
  ***********
 LaTeX2e <2025-11-01>
@@ -912,12 +991,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23078 strings out of 402983
- 452888 string characters out of 5448482
- 1469063 words of memory out of 5000000
- 51611 multiletter control sequences out of 15000+600000
- 631924 words of font info for 77 fonts, out of 8000000 for 9000
+ 24354 strings out of 402983
+ 468924 string characters out of 5448482
+ 1491597 words of memory out of 5000000
+ 52852 multiletter control sequences out of 15000+600000
+ 635103 words of font info for 91 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,12n,93p,1029b,5288s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,13n,93p,1310b,5284s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (6 pages).
+Output written on main.xdv (10 pages, 352468 bytes).
