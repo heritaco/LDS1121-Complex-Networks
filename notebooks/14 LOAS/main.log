@@ -1,7 +1,8 @@
-This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.4.10)  10 APR 2026 06:56
+This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.4.10)  10 APR 2026 08:31
  restricted system commands enabled.
-**main.tex
-(./main.tex
+ file:line:error style messages enabled.
+**"e:/HERIBERTO/github/LDS1121-Complex-Networks/notebooks/14 LOAS/main"
+("e:/HERIBERTO/github/LDS1121-Complex-Networks/notebooks/14 LOAS/main.tex"
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
@@ -1162,31 +1163,40 @@ LaTeX Info: Redefining \% on input line 41.
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 
 \openout1 = main.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 25085 strings out of 476076
- 125081,1648299 words of node,token memory allocated
- 936 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 7 glue, 4 kern, 1 glyph, 69 attribute, 68 glue_spec
-, 35 attribute_list, 1 write, 24 pdf_action nodes
-   avail lists: 1:2,2:1702,3:612,4:165,5:791,6:50,7:12461,8:48,9:445,10:19,11:17
-56
- 47145 multiletter control sequences out of 65536+600000
+ 25084 strings out of 476076
+ 156358,1648299 words of node,token memory allocated
+ 852 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 7 glue, 4 kern, 1 glyph, 55 attribute, 68 glue_spec
+, 28 attribute_list, 1 write, 17 pdf_action nodes
+   avail lists: 1:3,2:1894,3:678,4:148,5:824,6:59,7:13315,8:48,9:437,10:17,11:18
+82
+ 47144 multiletter control sequences out of 65536+600000
  65 fonts using 11978975 bytes
- 73i,13n,92p,1395b,2805s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,13n,92p,1346b,2805s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/HERIBERTO/AppData/Local/Microsoft/Windows/Fonts/ebgaramond-bold.ttf><C
 :/Users/HERIBERTO/AppData/Local/Microsoft/Windows/Fonts/ebgaramond-variablefont_
 wght.ttf><C:/Users/HERIBERTO/AppData/Local/Microsoft/Windows/Fonts/ebgaramond-it
 alic-variablefont_wght.ttf>
-Output written on main.pdf (6 pages, 123003 bytes).
+Output written on main.pdf (6 pages, 115984 bytes).
 
-PDF statistics: 189 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 174 PDF objects out of 1000 (max. 8388607)
  32 named destinations out of 1000 (max. 1048576)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
