@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.4.10)  10 APR 2026 08:32
+This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.4.10)  10 APR 2026 08:47
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"e:/HERIBERTO/github/LDS1121-Complex-Networks/notebooks/14 LOAS/main"
@@ -955,10 +955,10 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
  (./main.aux
-LaTeX Info: Redefining \. on input line 41.
-LaTeX Info: Redefining \% on input line 41.
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 41.
+(babel)             Reported on input line 34.
 )
 \openout1 = main.aux
 
@@ -1154,10 +1154,10 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1{C:/Users/HERIBERTO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 ]
-[2] [3] [4] [5] [6] (./main.aux
-LaTeX Info: Redefining \sptext on input line 41.
-LaTeX Info: Redefining \. on input line 41.
-LaTeX Info: Redefining \% on input line 41.
+[2] [3] [4] [5] (./main.aux
+LaTeX Info: Redefining \sptext on input line 34.
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
 )
  ***********
 LaTeX2e <2025-11-01>
@@ -1165,38 +1165,38 @@ L3 programming layer <2026-01-19>
  ***********
 
 
-LaTeX Warning: There were undefined references.
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 469D9567BA3CC93EB78F9119D5505DF8;96
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'main.run.xml'.
 
 \openout1 = main.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 25084 strings out of 476076
- 156358,1648299 words of node,token memory allocated
- 852 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 7 glue, 4 kern, 1 glyph, 55 attribute, 68 glue_spec
-, 28 attribute_list, 1 write, 17 pdf_action nodes
-   avail lists: 1:3,2:1894,3:678,4:148,5:824,6:59,7:13315,8:48,9:437,10:17,11:18
-82
- 47144 multiletter control sequences out of 65536+600000
+ 25066 strings out of 476076
+ 125081,1648299 words of node,token memory allocated
+ 840 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 7 glue, 4 kern, 1 glyph, 53 attribute, 68 glue_spec
+, 27 attribute_list, 1 write, 16 pdf_action nodes
+   avail lists: 1:1,2:1801,3:659,4:160,5:763,6:59,7:12155,8:48,9:446,10:17,11:17
+01
+ 47129 multiletter control sequences out of 65536+600000
  65 fonts using 11978975 bytes
- 73i,13n,92p,1346b,2805s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,13n,92p,1268b,2805s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+warning  (pdf backend): unreferenced destination with name 'section.1'
 <C:/Users/HERIBERTO/AppData/Local/Microsoft/Windows/Fonts/ebgaramond-bold.ttf><C
 :/Users/HERIBERTO/AppData/Local/Microsoft/Windows/Fonts/ebgaramond-variablefont_
 wght.ttf><C:/Users/HERIBERTO/AppData/Local/Microsoft/Windows/Fonts/ebgaramond-it
 alic-variablefont_wght.ttf>
-Output written on main.pdf (6 pages, 115984 bytes).
+Output written on main.pdf (5 pages, 114292 bytes).
 
-PDF statistics: 174 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 1048576)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 170 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 1048576)
+ 9 words of extra memory for PDF output out of 10000 (max. 100000000)
 

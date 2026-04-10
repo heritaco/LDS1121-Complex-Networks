@@ -137,7 +137,7 @@
 
 \essaytitleblock
 
-% \section*{Introducción}
+\section*{Introducción}
 
 Una red biológica representa relaciones entre elementos de un sistema vivo, como proteínas, genes, metabolitos, neuronas, especies o regiones del genoma. En lugar de buscar descripciones individuales intenta explicar cómo se organizan sus vínculos y la estructura que se forma entre ellos. 
 
@@ -147,7 +147,7 @@ No se trata solo de aplicar las mismas medidas a cualquier red, se busca interpr
 
 Las redes biológicas (y en general) son importantes cuando sus propiedades, modelado y aplicaciones se analizan de manera específica para cada clase de red.\footnote{Aquí la palabra \enquote{clase} se usa en el sentido que designa familias de redes que comparten una misma lógica de representación, aunque cambien la escala, los objetos y el tipo de relaciones.} Por ello, se tiene que preguntar qué significa cada propiedad de la clase de la red, como red de interacción entre proteínas, redes metabólicas, regulatorias, neuronales, ecológicas o de contacto cromatínico.
 
-% \section*{Desarrollo}
+\section*{Argumentación}
 
 \subsection*{1. Clases de redes}
 
@@ -165,8 +165,10 @@ En las redes de interacción entre proteínas, un grado alto indica que una prot
 
 Las redes metabólicas se representan mediante redes dirigidas porque una reacción transforma unos compuestos en otros, la relación tiene la orientación de los sustratos hacia los productos. El grado alto de un metabolito puede señalar una posición central en el intercambio bioquímico, pero también puede reflejar metabolitos "moneda", como ATP, agua o NADH, es decir, moléculas que participan en muchísimas reacciones y por ello conectan gran parte de la red. La longitud de camino es la cercanía de transformaciones entre compuestos; la modularidad aproxima subsistemas bioquímicos; y la existencia de caminos alternativos explica redundancia y plasticidad metabólica \parencite{Koutrouli2020,EmmertStreib2015}.
 
-Las redes de señalización y regulación génica se modelan como redes dirigidas y ponderadas porque importa quién regula a quién. El grado de salida de un factor de transcripción indica el alcance de su influencia regulatoria; el grado de entrada de un gen señala cuántas señales convergen sobre él. Los circuitos de retroalimentación positiva se asocian con memoria y estabilización de estados celulares, mientras que la retroalimentación negativa se vincula con homeostasis y amortiguación. El motivo \textit{feed-forward loop}, es decir, un patrón en el que un regulador controla a un segundo regulador y ambos influyen sobre un mismo gen, se interpretn como un módulo capaz de filtrar ruido o introducir respuestas selectivas en el tiempo. En estas redes, la topología local se interpreta casi siempre en términos dinámicos\footnote{Esto significa que un patrón local de conexiones no se describe solo por su forma, sino también por el tipo de comportamiento temporal que puede producir: respuestas rápidas o lentas, filtrado de ruido, memoria celular, estabilidad de estados o transiciones entre estados regulatorios.} \parencite{ManganAlon2003,ShenOrr2002,EmmertStreib2014,BanfRhee2017}. 
+Las redes de señalización y regulación génica se modelan como redes dirigidas y ponderadas porque importa quién regula a quién. El grado de salida de un factor de transcripción indica el alcance de su influencia regulatoria; el grado de entrada de un gen señala cuántas señales convergen sobre él. Los circuitos de retroalimentación positiva se asocian con memoria y estabilización de estados celulares, mientras que la retroalimentación negativa se vincula con homeostasis y amortiguación. El motivo \textit{feed-forward loop}, es decir, un patrón en el que un regulador controla a un segundo regulador y ambos influyen sobre un mismo gen, se interpretn como un módulo capaz de filtrar ruido o introducir respuestas selectivas en el tiempo. En estas redes, la topología local se interpreta casi siempre en términos dinámicos\footnote{Esto significa que un patrón local de conexiones no se describe solo por su forma, sino también por el tipo de comportamiento temporal que puede producir: respuestas rápidas o lentas, filtrado de ruido, memoria celular, estabilidad de estados o transiciones entre estados regulatorios.} 
+\parencite{EmmertStreib2014,BanfRhee2017}. 
 
+% ManganAlon2003,ShenOrr2002,
 En las redes de coexpresión una arista no representa regulación directa, sino semejanza estadística entre perfiles de expresión. Por eso, un módulo de coexpresión se interpreta como un  conjunto de genes que tienden a expresarse de manera coordinada, o como una condición fisiológica o una enfermedad. Un gen concentrador dentro del módulo puede ser un buen marcador, y la la modularidad es más informativa que la centralidad global. \parencite{ZhangHorvath2005,Zheng2021,Gnanakkumaar2019}.
 
 En las redes neuronales, el agrupamiento y la modularidad se interpreta como especialización de subredes que procesan tareas distintas. La longitud media de camino y ciertas configuraciones de pequeño mundo se interpretan como eficiencia de integración entre regiones distantes. Los motivos recurrentes pueden señalar microcircuitos de procesamiento, y los nodos altamente conectados pueden comportarse como neuronas cuya alteración afecta de manera desproporcionada al conjunto en comparación a las otras neuronas \parencite{BullmoreSporns2009,Mittal2024}. 
@@ -219,7 +221,7 @@ Cada propiedad tiene un significado diferente según la clase de red, y cada cla
 
 
 
-\subsection*{Conclusión}
+\section*{Conclusión}
 
 Las redes biológicas tienen la capacidad de describir fenómenos que van desde la interacción entre proteínas y la arquitectura espacial del genoma hasta la organización de ecosistemas. Las redes nos dan la posibilidad de estudiar sus dependencias como estructuras relacionales.
 
