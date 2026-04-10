@@ -5,13 +5,21 @@
 - `biblio.bib`: base bibliográfica en formato BibTeX/BibLaTeX.
 
 ## Compilación
-Compila con `biber`:
+En este equipo, `xelatex` falla al generar el PDF final con la fuente `EB Garamond`.
+La forma más estable de compilar es con `lualatex` usando `latexmk`, que ejecuta `biber`
+automáticamente:
 
 ```bash
-pdflatex main.tex
+latexmk -lualatex -interaction=nonstopmode -synctex=1 main.tex
+```
+
+Si prefieres compilar manualmente:
+
+```bash
+lualatex main.tex
 biber main
-pdflatex main.tex
-pdflatex main.tex
+lualatex main.tex
+lualatex main.tex
 ```
 
 ## Observaciones

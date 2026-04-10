@@ -8,10 +8,10 @@
   // Build LaTeX documents with biber-aware recipes in this workspace.
   "latex-workshop.latex.tools": [
     {
-      "name": "latexmk-xelatex",
+      "name": "latexmk-lualatex",
       "command": "latexmk",
       "args": [
-        "-xelatex",
+        "-lualatex",
         "-synctex=1",
         "-interaction=nonstopmode",
         "-file-line-error",
@@ -49,9 +49,9 @@
   ],
   "latex-workshop.latex.recipes": [
     {
-      "name": "latexmk (xelatex recommended)",
+      "name": "latexmk (lualatex + biber)",
       "tools": [
-        "latexmk-xelatex"
+        "latexmk-lualatex"
       ]
     },
     {
@@ -70,5 +70,6 @@
       ]
     }
   ],
-  "latex-workshop.latex.recipe.default": "first"
+  "latex-workshop.latex.recipe.default": "first",
+  "latex-workshop.latex.autoBuild.run": "onSave"
 }

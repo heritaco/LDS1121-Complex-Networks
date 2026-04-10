@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{nyt/apasortcite//global/global}
-    \entry{BanfRhee2017}{article}{}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{BanfRhee2017}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=1ba99acc7402ce06621eccb7d4ea57b8}{%
            family={Banf},
@@ -36,14 +36,16 @@
       }
       \strng{namehash}{84cc04f50be70ce4ac3f330135234552}
       \strng{fullhash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{fullhashraw}{84cc04f50be70ce4ac3f330135234552}
       \strng{bibnamehash}{84cc04f50be70ce4ac3f330135234552}
       \strng{authorbibnamehash}{84cc04f50be70ce4ac3f330135234552}
       \strng{authornamehash}{84cc04f50be70ce4ac3f330135234552}
       \strng{authorfullhash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{authorfullhashraw}{84cc04f50be70ce4ac3f330135234552}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -58,7 +60,7 @@
       \verb 10.1016/j.bbagrm.2016.09.003
       \endverb
     \endentry
-    \entry{Bascompte2009}{article}{}
+    \entry{Bascompte2009}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b71c47fff97792c37706210243e23ae5}{%
            family={Bascompte},
@@ -69,14 +71,16 @@
       }
       \strng{namehash}{b71c47fff97792c37706210243e23ae5}
       \strng{fullhash}{b71c47fff97792c37706210243e23ae5}
+      \strng{fullhashraw}{b71c47fff97792c37706210243e23ae5}
       \strng{bibnamehash}{b71c47fff97792c37706210243e23ae5}
       \strng{authorbibnamehash}{b71c47fff97792c37706210243e23ae5}
       \strng{authornamehash}{b71c47fff97792c37706210243e23ae5}
       \strng{authorfullhash}{b71c47fff97792c37706210243e23ae5}
+      \strng{authorfullhashraw}{b71c47fff97792c37706210243e23ae5}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -91,7 +95,7 @@
       \verb 10.1126/science.1170749
       \endverb
     \endentry
-    \entry{Beagrie2017}{article}{}
+    \entry{Beagrie2017}{article}{}{}
       \name{author}{17}{}{%
         {{un=0,uniquepart=base,hash=3b65ecfe0b4295b6a5863f3028e23d1f}{%
            family={Beagrie},
@@ -200,14 +204,16 @@
       }
       \strng{namehash}{0a28850713fe2c584c786511c1346126}
       \strng{fullhash}{5c28dcde8af514f225f2cdcad07ac99f}
+      \strng{fullhashraw}{5c28dcde8af514f225f2cdcad07ac99f}
       \strng{bibnamehash}{5c28dcde8af514f225f2cdcad07ac99f}
       \strng{authorbibnamehash}{5c28dcde8af514f225f2cdcad07ac99f}
       \strng{authornamehash}{0a28850713fe2c584c786511c1346126}
       \strng{authorfullhash}{5c28dcde8af514f225f2cdcad07ac99f}
+      \strng{authorfullhashraw}{5c28dcde8af514f225f2cdcad07ac99f}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -222,7 +228,7 @@
       \verb 10.1038/nature21411
       \endverb
     \endentry
-    \entry{BullmoreSporns2009}{article}{}
+    \entry{BullmoreSporns2009}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8a5528818865dbabbeb704ddc9b3100e}{%
            family={Bullmore},
@@ -239,14 +245,16 @@
       }
       \strng{namehash}{c72017c2d2caa46d1be3f49dda5db011}
       \strng{fullhash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{fullhashraw}{c72017c2d2caa46d1be3f49dda5db011}
       \strng{bibnamehash}{c72017c2d2caa46d1be3f49dda5db011}
       \strng{authorbibnamehash}{c72017c2d2caa46d1be3f49dda5db011}
       \strng{authornamehash}{c72017c2d2caa46d1be3f49dda5db011}
       \strng{authorfullhash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{authorfullhashraw}{c72017c2d2caa46d1be3f49dda5db011}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -261,7 +269,7 @@
       \verb 10.1038/nrn2575
       \endverb
     \endentry
-    \entry{Dunne2002}{article}{}
+    \entry{Dunne2002}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=0237443e40e8da6ce9c48089ad28c91b}{%
            family={Dunne},
@@ -284,14 +292,16 @@
       }
       \strng{namehash}{5db80e371e0829eb3a539515cd5c6cf0}
       \strng{fullhash}{222c25dd3471207ba331f9d031dc4633}
+      \strng{fullhashraw}{222c25dd3471207ba331f9d031dc4633}
       \strng{bibnamehash}{222c25dd3471207ba331f9d031dc4633}
       \strng{authorbibnamehash}{222c25dd3471207ba331f9d031dc4633}
       \strng{authornamehash}{5db80e371e0829eb3a539515cd5c6cf0}
       \strng{authorfullhash}{222c25dd3471207ba331f9d031dc4633}
+      \strng{authorfullhashraw}{222c25dd3471207ba331f9d031dc4633}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -306,7 +316,7 @@
       \verb 10.1046/j.1461-0248.2002.00354.x
       \endverb
     \endentry
-    \entry{Elowitz2002}{article}{}
+    \entry{Elowitz2002}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=172d917eef79d80ede6ac97ef3cfb264}{%
            family={Elowitz},
@@ -335,14 +345,16 @@
       }
       \strng{namehash}{afcecdeeae6ebf9ab43768333ff87600}
       \strng{fullhash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{fullhashraw}{3c1d4497b80d1bcc8a01e34b70d75cfa}
       \strng{bibnamehash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
       \strng{authorbibnamehash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
       \strng{authornamehash}{afcecdeeae6ebf9ab43768333ff87600}
       \strng{authorfullhash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{authorfullhashraw}{3c1d4497b80d1bcc8a01e34b70d75cfa}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -357,7 +369,7 @@
       \verb 10.1126/science.1070919
       \endverb
     \endentry
-    \entry{EmmertStreib2015}{article}{}
+    \entry{EmmertStreib2015}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=c366d0d37b00e25cc0c52232b4966ca9}{%
            family={Emmert-Streib},
@@ -374,14 +386,16 @@
       }
       \strng{namehash}{2f44fa498bf882eb72befffe5f349ace}
       \strng{fullhash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{fullhashraw}{2f44fa498bf882eb72befffe5f349ace}
       \strng{bibnamehash}{2f44fa498bf882eb72befffe5f349ace}
       \strng{authorbibnamehash}{2f44fa498bf882eb72befffe5f349ace}
       \strng{authornamehash}{2f44fa498bf882eb72befffe5f349ace}
       \strng{authorfullhash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{authorfullhashraw}{2f44fa498bf882eb72befffe5f349ace}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -395,7 +409,7 @@
       \verb 10.3389/fgene.2015.00307
       \endverb
     \endentry
-    \entry{EmmertStreib2014}{article}{}
+    \entry{EmmertStreib2014}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=c366d0d37b00e25cc0c52232b4966ca9}{%
            family={Emmert-Streib},
@@ -418,14 +432,16 @@
       }
       \strng{namehash}{688da31b8ec3bf7ee3e1e8ec5db764f1}
       \strng{fullhash}{a3e10f39e231484df54112098f7c34aa}
+      \strng{fullhashraw}{a3e10f39e231484df54112098f7c34aa}
       \strng{bibnamehash}{a3e10f39e231484df54112098f7c34aa}
       \strng{authorbibnamehash}{a3e10f39e231484df54112098f7c34aa}
       \strng{authornamehash}{688da31b8ec3bf7ee3e1e8ec5db764f1}
       \strng{authorfullhash}{a3e10f39e231484df54112098f7c34aa}
+      \strng{authorfullhashraw}{a3e10f39e231484df54112098f7c34aa}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -439,7 +455,7 @@
       \verb 10.3389/fcell.2014.00038
       \endverb
     \endentry
-    \entry{Gnanakkumaar2019}{article}{}
+    \entry{Gnanakkumaar2019}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=1e3082b5ab3a5a1c8d1b6ed31ca905dc}{%
            family={Gnanakkumaar},
@@ -462,14 +478,16 @@
       }
       \strng{namehash}{6d1ab4f248c3f96a95c7a53b4001aa36}
       \strng{fullhash}{6c62184967be8079a037cdb6c68eff0c}
+      \strng{fullhashraw}{6c62184967be8079a037cdb6c68eff0c}
       \strng{bibnamehash}{6c62184967be8079a037cdb6c68eff0c}
       \strng{authorbibnamehash}{6c62184967be8079a037cdb6c68eff0c}
       \strng{authornamehash}{6d1ab4f248c3f96a95c7a53b4001aa36}
       \strng{authorfullhash}{6c62184967be8079a037cdb6c68eff0c}
+      \strng{authorfullhashraw}{6c62184967be8079a037cdb6c68eff0c}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -484,7 +502,7 @@
       \verb 10.1038/s41598-019-49124-x
       \endverb
     \endentry
-    \entry{Jeong2001}{article}{}
+    \entry{Jeong2001}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=f0f51cd5afc669d57dbff9b8e913c55c}{%
            family={Jeong},
@@ -513,14 +531,16 @@
       }
       \strng{namehash}{b3c661f8d00cd663ddc7f8e453a0d221}
       \strng{fullhash}{6eda3f18c536b043b11d0a29cd32c608}
+      \strng{fullhashraw}{6eda3f18c536b043b11d0a29cd32c608}
       \strng{bibnamehash}{6eda3f18c536b043b11d0a29cd32c608}
       \strng{authorbibnamehash}{6eda3f18c536b043b11d0a29cd32c608}
       \strng{authornamehash}{b3c661f8d00cd663ddc7f8e453a0d221}
       \strng{authorfullhash}{6eda3f18c536b043b11d0a29cd32c608}
+      \strng{authorfullhashraw}{6eda3f18c536b043b11d0a29cd32c608}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -535,7 +555,7 @@
       \verb 10.1038/35075138
       \endverb
     \endentry
-    \entry{Joy2005}{article}{}
+    \entry{Joy2005}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=e8a0c6a62158d7fb2154138fddf9df21}{%
            family={Joy},
@@ -564,14 +584,16 @@
       }
       \strng{namehash}{1a33dc6d48d84dd4c0ee762b1119efea}
       \strng{fullhash}{2629d5789febd2c71f4f1f0b08f44524}
+      \strng{fullhashraw}{2629d5789febd2c71f4f1f0b08f44524}
       \strng{bibnamehash}{2629d5789febd2c71f4f1f0b08f44524}
       \strng{authorbibnamehash}{2629d5789febd2c71f4f1f0b08f44524}
       \strng{authornamehash}{1a33dc6d48d84dd4c0ee762b1119efea}
       \strng{authorfullhash}{2629d5789febd2c71f4f1f0b08f44524}
+      \strng{authorfullhashraw}{2629d5789febd2c71f4f1f0b08f44524}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -586,7 +608,7 @@
       \verb 10.1155/JBB.2005.96
       \endverb
     \endentry
-    \entry{Kauffman1969}{article}{}
+    \entry{Kauffman1969}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a447063ee328386c8ceba6c257ab6bc9}{%
            family={Kauffman},
@@ -597,14 +619,16 @@
       }
       \strng{namehash}{a447063ee328386c8ceba6c257ab6bc9}
       \strng{fullhash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{fullhashraw}{a447063ee328386c8ceba6c257ab6bc9}
       \strng{bibnamehash}{a447063ee328386c8ceba6c257ab6bc9}
       \strng{authorbibnamehash}{a447063ee328386c8ceba6c257ab6bc9}
       \strng{authornamehash}{a447063ee328386c8ceba6c257ab6bc9}
       \strng{authorfullhash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{authorfullhashraw}{a447063ee328386c8ceba6c257ab6bc9}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -619,7 +643,7 @@
       \verb 10.1016/0022-5193(69)90015-0
       \endverb
     \endentry
-    \entry{Koutrouli2020}{article}{}
+    \entry{Koutrouli2020}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=93792d1ac2964d9aff8858691d2eee7d}{%
            family={Koutrouli},
@@ -648,14 +672,16 @@
       }
       \strng{namehash}{591ab8f6469d117abf1a321f7a5ad71d}
       \strng{fullhash}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \strng{fullhashraw}{0091c7084dac7ebcb06b8ae8ef046dbb}
       \strng{bibnamehash}{0091c7084dac7ebcb06b8ae8ef046dbb}
       \strng{authorbibnamehash}{0091c7084dac7ebcb06b8ae8ef046dbb}
       \strng{authornamehash}{591ab8f6469d117abf1a321f7a5ad71d}
       \strng{authorfullhash}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \strng{authorfullhashraw}{0091c7084dac7ebcb06b8ae8ef046dbb}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -669,7 +695,7 @@
       \verb 10.3389/fbioe.2020.00034
       \endverb
     \endentry
-    \entry{KrauseLusseauJames2009}{article}{}
+    \entry{KrauseLusseauJames2009}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=e8522f69e0b7ebdc1f923ae82d7449b0}{%
            family={Krause},
@@ -692,14 +718,16 @@
       }
       \strng{namehash}{44d730f6fc84f11fb5b9588dc94f81a4}
       \strng{fullhash}{9244f380af8eb74792ed183325aa23a3}
+      \strng{fullhashraw}{9244f380af8eb74792ed183325aa23a3}
       \strng{bibnamehash}{9244f380af8eb74792ed183325aa23a3}
       \strng{authorbibnamehash}{9244f380af8eb74792ed183325aa23a3}
       \strng{authornamehash}{44d730f6fc84f11fb5b9588dc94f81a4}
       \strng{authorfullhash}{9244f380af8eb74792ed183325aa23a3}
+      \strng{authorfullhashraw}{9244f380af8eb74792ed183325aa23a3}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -714,7 +742,7 @@
       \verb 10.1007/s00265-009-0747-0
       \endverb
     \endentry
-    \entry{ManganAlon2003}{article}{}
+    \entry{ManganAlon2003}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=34ac788045355582638259e682aef69e}{%
            family={Mangan},
@@ -731,14 +759,16 @@
       }
       \strng{namehash}{cf479be799838e0ff4e2b74258559a97}
       \strng{fullhash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{fullhashraw}{cf479be799838e0ff4e2b74258559a97}
       \strng{bibnamehash}{cf479be799838e0ff4e2b74258559a97}
       \strng{authorbibnamehash}{cf479be799838e0ff4e2b74258559a97}
       \strng{authornamehash}{cf479be799838e0ff4e2b74258559a97}
       \strng{authorfullhash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{authorfullhashraw}{cf479be799838e0ff4e2b74258559a97}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -753,7 +783,7 @@
       \verb 10.1073/pnas.2133841100
       \endverb
     \endentry
-    \entry{Memmott2004}{article}{}
+    \entry{Memmott2004}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=31513becf86a77e466d85745d0461633}{%
            family={Memmott},
@@ -776,14 +806,16 @@
       }
       \strng{namehash}{ebbded424ac0733fc4509ca81075a9ec}
       \strng{fullhash}{01d76d84f9c2a72a38109e9c1d42be25}
+      \strng{fullhashraw}{01d76d84f9c2a72a38109e9c1d42be25}
       \strng{bibnamehash}{01d76d84f9c2a72a38109e9c1d42be25}
       \strng{authorbibnamehash}{01d76d84f9c2a72a38109e9c1d42be25}
       \strng{authornamehash}{ebbded424ac0733fc4509ca81075a9ec}
       \strng{authorfullhash}{01d76d84f9c2a72a38109e9c1d42be25}
+      \strng{authorfullhashraw}{01d76d84f9c2a72a38109e9c1d42be25}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -798,7 +830,7 @@
       \verb 10.1098/rspb.2004.2909
       \endverb
     \endentry
-    \entry{Mittal2024}{article}{}
+    \entry{Mittal2024}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a917e8e3b79d884fbd50f0f5f8abfdb7}{%
            family={Mittal},
@@ -815,14 +847,16 @@
       }
       \strng{namehash}{eefdfbf694f10913d1ef9b7439729261}
       \strng{fullhash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{fullhashraw}{eefdfbf694f10913d1ef9b7439729261}
       \strng{bibnamehash}{eefdfbf694f10913d1ef9b7439729261}
       \strng{authorbibnamehash}{eefdfbf694f10913d1ef9b7439729261}
       \strng{authornamehash}{eefdfbf694f10913d1ef9b7439729261}
       \strng{authorfullhash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{authorfullhashraw}{eefdfbf694f10913d1ef9b7439729261}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -837,7 +871,7 @@
       \verb 10.1016/j.tins.2024.04.008
       \endverb
     \endentry
-    \entry{Olesen2007}{article}{}
+    \entry{Olesen2007}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=7a358f314311e399f7f1ef559f1a17ff}{%
            family={Olesen},
@@ -866,14 +900,16 @@
       }
       \strng{namehash}{32f106035e2e09320e9bca2f3525f6aa}
       \strng{fullhash}{fab326c42dbf8ba4621e0397f1c3006f}
+      \strng{fullhashraw}{fab326c42dbf8ba4621e0397f1c3006f}
       \strng{bibnamehash}{fab326c42dbf8ba4621e0397f1c3006f}
       \strng{authorbibnamehash}{fab326c42dbf8ba4621e0397f1c3006f}
       \strng{authornamehash}{32f106035e2e09320e9bca2f3525f6aa}
       \strng{authorfullhash}{fab326c42dbf8ba4621e0397f1c3006f}
+      \strng{authorfullhashraw}{fab326c42dbf8ba4621e0397f1c3006f}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -888,7 +924,7 @@
       \verb 10.1073/pnas.0706375104
       \endverb
     \endentry
-    \entry{ShenOrr2002}{article}{}
+    \entry{ShenOrr2002}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=71b1b4504c7faf35a2d50efdacaed68c}{%
            family={Shen-Orr},
@@ -917,14 +953,16 @@
       }
       \strng{namehash}{b9c40be5605c0b196d16337d83e1d93e}
       \strng{fullhash}{543e18d275afc446f2f2386d3236db46}
+      \strng{fullhashraw}{543e18d275afc446f2f2386d3236db46}
       \strng{bibnamehash}{543e18d275afc446f2f2386d3236db46}
       \strng{authorbibnamehash}{543e18d275afc446f2f2386d3236db46}
       \strng{authornamehash}{b9c40be5605c0b196d16337d83e1d93e}
       \strng{authorfullhash}{543e18d275afc446f2f2386d3236db46}
+      \strng{authorfullhashraw}{543e18d275afc446f2f2386d3236db46}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -939,7 +977,7 @@
       \verb 10.1038/ng881
       \endverb
     \endentry
-    \entry{Smits2016}{article}{}
+    \entry{Smits2016}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=43bd95453889320c47ca7ad2565a78bf}{%
            family={Smits},
@@ -956,14 +994,16 @@
       }
       \strng{namehash}{a722a30fa69588c36af50b1f9777ebf1}
       \strng{fullhash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{fullhashraw}{a722a30fa69588c36af50b1f9777ebf1}
       \strng{bibnamehash}{a722a30fa69588c36af50b1f9777ebf1}
       \strng{authorbibnamehash}{a722a30fa69588c36af50b1f9777ebf1}
       \strng{authornamehash}{a722a30fa69588c36af50b1f9777ebf1}
       \strng{authorfullhash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{authorfullhashraw}{a722a30fa69588c36af50b1f9777ebf1}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -978,7 +1018,7 @@
       \verb 10.1016/j.tibtech.2016.02.014
       \endverb
     \endentry
-    \entry{ZhangHorvath2005}{article}{}
+    \entry{ZhangHorvath2005}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=edefadf2737f4300dd8a9daa07b31f02}{%
            family={Zhang},
@@ -995,14 +1035,16 @@
       }
       \strng{namehash}{e242b3770fcc3812de0af1be93e77392}
       \strng{fullhash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{fullhashraw}{e242b3770fcc3812de0af1be93e77392}
       \strng{bibnamehash}{e242b3770fcc3812de0af1be93e77392}
       \strng{authorbibnamehash}{e242b3770fcc3812de0af1be93e77392}
       \strng{authornamehash}{e242b3770fcc3812de0af1be93e77392}
       \strng{authorfullhash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{authorfullhashraw}{e242b3770fcc3812de0af1be93e77392}
       \field{sortinit}{Z}
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1017,7 +1059,7 @@
       \verb 10.2202/1544-6115.1128
       \endverb
     \endentry
-    \entry{Zheng2021}{article}{}
+    \entry{Zheng2021}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=4edf0e7dcf19ec551aecc2cc9cd6f21e}{%
            family={Zheng},
@@ -1046,14 +1088,16 @@
       }
       \strng{namehash}{2c236b635d98c9ab900dc10b9f281249}
       \strng{fullhash}{ede08aff21534548191588f344464ede}
+      \strng{fullhashraw}{ede08aff21534548191588f344464ede}
       \strng{bibnamehash}{ede08aff21534548191588f344464ede}
       \strng{authorbibnamehash}{ede08aff21534548191588f344464ede}
       \strng{authornamehash}{2c236b635d98c9ab900dc10b9f281249}
       \strng{authorfullhash}{ede08aff21534548191588f344464ede}
+      \strng{authorfullhashraw}{ede08aff21534548191588f344464ede}
       \field{sortinit}{Z}
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1069,8 +1113,8 @@
       \endverb
     \endentry
   \enddatalist
-  \datalist[entry]{nyt/global//global/global}
-    \entry{BanfRhee2017}{article}{}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{BanfRhee2017}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=1ba99acc7402ce06621eccb7d4ea57b8}{%
            family={Banf},
@@ -1087,14 +1131,16 @@
       }
       \strng{namehash}{84cc04f50be70ce4ac3f330135234552}
       \strng{fullhash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{fullhashraw}{84cc04f50be70ce4ac3f330135234552}
       \strng{bibnamehash}{84cc04f50be70ce4ac3f330135234552}
       \strng{authorbibnamehash}{84cc04f50be70ce4ac3f330135234552}
       \strng{authornamehash}{84cc04f50be70ce4ac3f330135234552}
       \strng{authorfullhash}{84cc04f50be70ce4ac3f330135234552}
+      \strng{authorfullhashraw}{84cc04f50be70ce4ac3f330135234552}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1109,7 +1155,7 @@
       \verb 10.1016/j.bbagrm.2016.09.003
       \endverb
     \endentry
-    \entry{Bascompte2009}{article}{}
+    \entry{Bascompte2009}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b71c47fff97792c37706210243e23ae5}{%
            family={Bascompte},
@@ -1120,14 +1166,16 @@
       }
       \strng{namehash}{b71c47fff97792c37706210243e23ae5}
       \strng{fullhash}{b71c47fff97792c37706210243e23ae5}
+      \strng{fullhashraw}{b71c47fff97792c37706210243e23ae5}
       \strng{bibnamehash}{b71c47fff97792c37706210243e23ae5}
       \strng{authorbibnamehash}{b71c47fff97792c37706210243e23ae5}
       \strng{authornamehash}{b71c47fff97792c37706210243e23ae5}
       \strng{authorfullhash}{b71c47fff97792c37706210243e23ae5}
+      \strng{authorfullhashraw}{b71c47fff97792c37706210243e23ae5}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1142,7 +1190,7 @@
       \verb 10.1126/science.1170749
       \endverb
     \endentry
-    \entry{Beagrie2017}{article}{}
+    \entry{Beagrie2017}{article}{}{}
       \name{author}{17}{}{%
         {{un=0,uniquepart=base,hash=3b65ecfe0b4295b6a5863f3028e23d1f}{%
            family={Beagrie},
@@ -1251,14 +1299,16 @@
       }
       \strng{namehash}{0a28850713fe2c584c786511c1346126}
       \strng{fullhash}{5c28dcde8af514f225f2cdcad07ac99f}
+      \strng{fullhashraw}{5c28dcde8af514f225f2cdcad07ac99f}
       \strng{bibnamehash}{5c28dcde8af514f225f2cdcad07ac99f}
       \strng{authorbibnamehash}{5c28dcde8af514f225f2cdcad07ac99f}
       \strng{authornamehash}{0a28850713fe2c584c786511c1346126}
       \strng{authorfullhash}{5c28dcde8af514f225f2cdcad07ac99f}
+      \strng{authorfullhashraw}{5c28dcde8af514f225f2cdcad07ac99f}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1273,7 +1323,7 @@
       \verb 10.1038/nature21411
       \endverb
     \endentry
-    \entry{BullmoreSporns2009}{article}{}
+    \entry{BullmoreSporns2009}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8a5528818865dbabbeb704ddc9b3100e}{%
            family={Bullmore},
@@ -1290,14 +1340,16 @@
       }
       \strng{namehash}{c72017c2d2caa46d1be3f49dda5db011}
       \strng{fullhash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{fullhashraw}{c72017c2d2caa46d1be3f49dda5db011}
       \strng{bibnamehash}{c72017c2d2caa46d1be3f49dda5db011}
       \strng{authorbibnamehash}{c72017c2d2caa46d1be3f49dda5db011}
       \strng{authornamehash}{c72017c2d2caa46d1be3f49dda5db011}
       \strng{authorfullhash}{c72017c2d2caa46d1be3f49dda5db011}
+      \strng{authorfullhashraw}{c72017c2d2caa46d1be3f49dda5db011}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1312,7 +1364,7 @@
       \verb 10.1038/nrn2575
       \endverb
     \endentry
-    \entry{Dunne2002}{article}{}
+    \entry{Dunne2002}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=0237443e40e8da6ce9c48089ad28c91b}{%
            family={Dunne},
@@ -1335,14 +1387,16 @@
       }
       \strng{namehash}{5db80e371e0829eb3a539515cd5c6cf0}
       \strng{fullhash}{222c25dd3471207ba331f9d031dc4633}
+      \strng{fullhashraw}{222c25dd3471207ba331f9d031dc4633}
       \strng{bibnamehash}{222c25dd3471207ba331f9d031dc4633}
       \strng{authorbibnamehash}{222c25dd3471207ba331f9d031dc4633}
       \strng{authornamehash}{5db80e371e0829eb3a539515cd5c6cf0}
       \strng{authorfullhash}{222c25dd3471207ba331f9d031dc4633}
+      \strng{authorfullhashraw}{222c25dd3471207ba331f9d031dc4633}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1357,7 +1411,7 @@
       \verb 10.1046/j.1461-0248.2002.00354.x
       \endverb
     \endentry
-    \entry{Elowitz2002}{article}{}
+    \entry{Elowitz2002}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=172d917eef79d80ede6ac97ef3cfb264}{%
            family={Elowitz},
@@ -1386,14 +1440,16 @@
       }
       \strng{namehash}{afcecdeeae6ebf9ab43768333ff87600}
       \strng{fullhash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{fullhashraw}{3c1d4497b80d1bcc8a01e34b70d75cfa}
       \strng{bibnamehash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
       \strng{authorbibnamehash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
       \strng{authornamehash}{afcecdeeae6ebf9ab43768333ff87600}
       \strng{authorfullhash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{authorfullhashraw}{3c1d4497b80d1bcc8a01e34b70d75cfa}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1408,7 +1464,7 @@
       \verb 10.1126/science.1070919
       \endverb
     \endentry
-    \entry{EmmertStreib2015}{article}{}
+    \entry{EmmertStreib2015}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=c366d0d37b00e25cc0c52232b4966ca9}{%
            family={Emmert-Streib},
@@ -1425,14 +1481,16 @@
       }
       \strng{namehash}{2f44fa498bf882eb72befffe5f349ace}
       \strng{fullhash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{fullhashraw}{2f44fa498bf882eb72befffe5f349ace}
       \strng{bibnamehash}{2f44fa498bf882eb72befffe5f349ace}
       \strng{authorbibnamehash}{2f44fa498bf882eb72befffe5f349ace}
       \strng{authornamehash}{2f44fa498bf882eb72befffe5f349ace}
       \strng{authorfullhash}{2f44fa498bf882eb72befffe5f349ace}
+      \strng{authorfullhashraw}{2f44fa498bf882eb72befffe5f349ace}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1446,7 +1504,7 @@
       \verb 10.3389/fgene.2015.00307
       \endverb
     \endentry
-    \entry{EmmertStreib2014}{article}{}
+    \entry{EmmertStreib2014}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=c366d0d37b00e25cc0c52232b4966ca9}{%
            family={Emmert-Streib},
@@ -1469,14 +1527,16 @@
       }
       \strng{namehash}{688da31b8ec3bf7ee3e1e8ec5db764f1}
       \strng{fullhash}{a3e10f39e231484df54112098f7c34aa}
+      \strng{fullhashraw}{a3e10f39e231484df54112098f7c34aa}
       \strng{bibnamehash}{a3e10f39e231484df54112098f7c34aa}
       \strng{authorbibnamehash}{a3e10f39e231484df54112098f7c34aa}
       \strng{authornamehash}{688da31b8ec3bf7ee3e1e8ec5db764f1}
       \strng{authorfullhash}{a3e10f39e231484df54112098f7c34aa}
+      \strng{authorfullhashraw}{a3e10f39e231484df54112098f7c34aa}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1490,7 +1550,7 @@
       \verb 10.3389/fcell.2014.00038
       \endverb
     \endentry
-    \entry{Gnanakkumaar2019}{article}{}
+    \entry{Gnanakkumaar2019}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=1e3082b5ab3a5a1c8d1b6ed31ca905dc}{%
            family={Gnanakkumaar},
@@ -1513,14 +1573,16 @@
       }
       \strng{namehash}{6d1ab4f248c3f96a95c7a53b4001aa36}
       \strng{fullhash}{6c62184967be8079a037cdb6c68eff0c}
+      \strng{fullhashraw}{6c62184967be8079a037cdb6c68eff0c}
       \strng{bibnamehash}{6c62184967be8079a037cdb6c68eff0c}
       \strng{authorbibnamehash}{6c62184967be8079a037cdb6c68eff0c}
       \strng{authornamehash}{6d1ab4f248c3f96a95c7a53b4001aa36}
       \strng{authorfullhash}{6c62184967be8079a037cdb6c68eff0c}
+      \strng{authorfullhashraw}{6c62184967be8079a037cdb6c68eff0c}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1535,7 +1597,7 @@
       \verb 10.1038/s41598-019-49124-x
       \endverb
     \endentry
-    \entry{Jeong2001}{article}{}
+    \entry{Jeong2001}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=f0f51cd5afc669d57dbff9b8e913c55c}{%
            family={Jeong},
@@ -1564,14 +1626,16 @@
       }
       \strng{namehash}{b3c661f8d00cd663ddc7f8e453a0d221}
       \strng{fullhash}{6eda3f18c536b043b11d0a29cd32c608}
+      \strng{fullhashraw}{6eda3f18c536b043b11d0a29cd32c608}
       \strng{bibnamehash}{6eda3f18c536b043b11d0a29cd32c608}
       \strng{authorbibnamehash}{6eda3f18c536b043b11d0a29cd32c608}
       \strng{authornamehash}{b3c661f8d00cd663ddc7f8e453a0d221}
       \strng{authorfullhash}{6eda3f18c536b043b11d0a29cd32c608}
+      \strng{authorfullhashraw}{6eda3f18c536b043b11d0a29cd32c608}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1586,7 +1650,7 @@
       \verb 10.1038/35075138
       \endverb
     \endentry
-    \entry{Joy2005}{article}{}
+    \entry{Joy2005}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=e8a0c6a62158d7fb2154138fddf9df21}{%
            family={Joy},
@@ -1615,14 +1679,16 @@
       }
       \strng{namehash}{1a33dc6d48d84dd4c0ee762b1119efea}
       \strng{fullhash}{2629d5789febd2c71f4f1f0b08f44524}
+      \strng{fullhashraw}{2629d5789febd2c71f4f1f0b08f44524}
       \strng{bibnamehash}{2629d5789febd2c71f4f1f0b08f44524}
       \strng{authorbibnamehash}{2629d5789febd2c71f4f1f0b08f44524}
       \strng{authornamehash}{1a33dc6d48d84dd4c0ee762b1119efea}
       \strng{authorfullhash}{2629d5789febd2c71f4f1f0b08f44524}
+      \strng{authorfullhashraw}{2629d5789febd2c71f4f1f0b08f44524}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1637,7 +1703,7 @@
       \verb 10.1155/JBB.2005.96
       \endverb
     \endentry
-    \entry{Kauffman1969}{article}{}
+    \entry{Kauffman1969}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a447063ee328386c8ceba6c257ab6bc9}{%
            family={Kauffman},
@@ -1648,14 +1714,16 @@
       }
       \strng{namehash}{a447063ee328386c8ceba6c257ab6bc9}
       \strng{fullhash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{fullhashraw}{a447063ee328386c8ceba6c257ab6bc9}
       \strng{bibnamehash}{a447063ee328386c8ceba6c257ab6bc9}
       \strng{authorbibnamehash}{a447063ee328386c8ceba6c257ab6bc9}
       \strng{authornamehash}{a447063ee328386c8ceba6c257ab6bc9}
       \strng{authorfullhash}{a447063ee328386c8ceba6c257ab6bc9}
+      \strng{authorfullhashraw}{a447063ee328386c8ceba6c257ab6bc9}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1670,7 +1738,7 @@
       \verb 10.1016/0022-5193(69)90015-0
       \endverb
     \endentry
-    \entry{Koutrouli2020}{article}{}
+    \entry{Koutrouli2020}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=93792d1ac2964d9aff8858691d2eee7d}{%
            family={Koutrouli},
@@ -1699,14 +1767,16 @@
       }
       \strng{namehash}{591ab8f6469d117abf1a321f7a5ad71d}
       \strng{fullhash}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \strng{fullhashraw}{0091c7084dac7ebcb06b8ae8ef046dbb}
       \strng{bibnamehash}{0091c7084dac7ebcb06b8ae8ef046dbb}
       \strng{authorbibnamehash}{0091c7084dac7ebcb06b8ae8ef046dbb}
       \strng{authornamehash}{591ab8f6469d117abf1a321f7a5ad71d}
       \strng{authorfullhash}{0091c7084dac7ebcb06b8ae8ef046dbb}
+      \strng{authorfullhashraw}{0091c7084dac7ebcb06b8ae8ef046dbb}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1720,7 +1790,7 @@
       \verb 10.3389/fbioe.2020.00034
       \endverb
     \endentry
-    \entry{KrauseLusseauJames2009}{article}{}
+    \entry{KrauseLusseauJames2009}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=e8522f69e0b7ebdc1f923ae82d7449b0}{%
            family={Krause},
@@ -1743,14 +1813,16 @@
       }
       \strng{namehash}{44d730f6fc84f11fb5b9588dc94f81a4}
       \strng{fullhash}{9244f380af8eb74792ed183325aa23a3}
+      \strng{fullhashraw}{9244f380af8eb74792ed183325aa23a3}
       \strng{bibnamehash}{9244f380af8eb74792ed183325aa23a3}
       \strng{authorbibnamehash}{9244f380af8eb74792ed183325aa23a3}
       \strng{authornamehash}{44d730f6fc84f11fb5b9588dc94f81a4}
       \strng{authorfullhash}{9244f380af8eb74792ed183325aa23a3}
+      \strng{authorfullhashraw}{9244f380af8eb74792ed183325aa23a3}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1765,7 +1837,7 @@
       \verb 10.1007/s00265-009-0747-0
       \endverb
     \endentry
-    \entry{ManganAlon2003}{article}{}
+    \entry{ManganAlon2003}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=34ac788045355582638259e682aef69e}{%
            family={Mangan},
@@ -1782,14 +1854,16 @@
       }
       \strng{namehash}{cf479be799838e0ff4e2b74258559a97}
       \strng{fullhash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{fullhashraw}{cf479be799838e0ff4e2b74258559a97}
       \strng{bibnamehash}{cf479be799838e0ff4e2b74258559a97}
       \strng{authorbibnamehash}{cf479be799838e0ff4e2b74258559a97}
       \strng{authornamehash}{cf479be799838e0ff4e2b74258559a97}
       \strng{authorfullhash}{cf479be799838e0ff4e2b74258559a97}
+      \strng{authorfullhashraw}{cf479be799838e0ff4e2b74258559a97}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1804,7 +1878,7 @@
       \verb 10.1073/pnas.2133841100
       \endverb
     \endentry
-    \entry{Memmott2004}{article}{}
+    \entry{Memmott2004}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=31513becf86a77e466d85745d0461633}{%
            family={Memmott},
@@ -1827,14 +1901,16 @@
       }
       \strng{namehash}{ebbded424ac0733fc4509ca81075a9ec}
       \strng{fullhash}{01d76d84f9c2a72a38109e9c1d42be25}
+      \strng{fullhashraw}{01d76d84f9c2a72a38109e9c1d42be25}
       \strng{bibnamehash}{01d76d84f9c2a72a38109e9c1d42be25}
       \strng{authorbibnamehash}{01d76d84f9c2a72a38109e9c1d42be25}
       \strng{authornamehash}{ebbded424ac0733fc4509ca81075a9ec}
       \strng{authorfullhash}{01d76d84f9c2a72a38109e9c1d42be25}
+      \strng{authorfullhashraw}{01d76d84f9c2a72a38109e9c1d42be25}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1849,7 +1925,7 @@
       \verb 10.1098/rspb.2004.2909
       \endverb
     \endentry
-    \entry{Mittal2024}{article}{}
+    \entry{Mittal2024}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a917e8e3b79d884fbd50f0f5f8abfdb7}{%
            family={Mittal},
@@ -1866,14 +1942,16 @@
       }
       \strng{namehash}{eefdfbf694f10913d1ef9b7439729261}
       \strng{fullhash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{fullhashraw}{eefdfbf694f10913d1ef9b7439729261}
       \strng{bibnamehash}{eefdfbf694f10913d1ef9b7439729261}
       \strng{authorbibnamehash}{eefdfbf694f10913d1ef9b7439729261}
       \strng{authornamehash}{eefdfbf694f10913d1ef9b7439729261}
       \strng{authorfullhash}{eefdfbf694f10913d1ef9b7439729261}
+      \strng{authorfullhashraw}{eefdfbf694f10913d1ef9b7439729261}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1888,7 +1966,7 @@
       \verb 10.1016/j.tins.2024.04.008
       \endverb
     \endentry
-    \entry{Olesen2007}{article}{}
+    \entry{Olesen2007}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=7a358f314311e399f7f1ef559f1a17ff}{%
            family={Olesen},
@@ -1917,14 +1995,16 @@
       }
       \strng{namehash}{32f106035e2e09320e9bca2f3525f6aa}
       \strng{fullhash}{fab326c42dbf8ba4621e0397f1c3006f}
+      \strng{fullhashraw}{fab326c42dbf8ba4621e0397f1c3006f}
       \strng{bibnamehash}{fab326c42dbf8ba4621e0397f1c3006f}
       \strng{authorbibnamehash}{fab326c42dbf8ba4621e0397f1c3006f}
       \strng{authornamehash}{32f106035e2e09320e9bca2f3525f6aa}
       \strng{authorfullhash}{fab326c42dbf8ba4621e0397f1c3006f}
+      \strng{authorfullhashraw}{fab326c42dbf8ba4621e0397f1c3006f}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1939,7 +2019,7 @@
       \verb 10.1073/pnas.0706375104
       \endverb
     \endentry
-    \entry{ShenOrr2002}{article}{}
+    \entry{ShenOrr2002}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=71b1b4504c7faf35a2d50efdacaed68c}{%
            family={Shen-Orr},
@@ -1968,14 +2048,16 @@
       }
       \strng{namehash}{b9c40be5605c0b196d16337d83e1d93e}
       \strng{fullhash}{543e18d275afc446f2f2386d3236db46}
+      \strng{fullhashraw}{543e18d275afc446f2f2386d3236db46}
       \strng{bibnamehash}{543e18d275afc446f2f2386d3236db46}
       \strng{authorbibnamehash}{543e18d275afc446f2f2386d3236db46}
       \strng{authornamehash}{b9c40be5605c0b196d16337d83e1d93e}
       \strng{authorfullhash}{543e18d275afc446f2f2386d3236db46}
+      \strng{authorfullhashraw}{543e18d275afc446f2f2386d3236db46}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1990,7 +2072,7 @@
       \verb 10.1038/ng881
       \endverb
     \endentry
-    \entry{Smits2016}{article}{}
+    \entry{Smits2016}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=43bd95453889320c47ca7ad2565a78bf}{%
            family={Smits},
@@ -2007,14 +2089,16 @@
       }
       \strng{namehash}{a722a30fa69588c36af50b1f9777ebf1}
       \strng{fullhash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{fullhashraw}{a722a30fa69588c36af50b1f9777ebf1}
       \strng{bibnamehash}{a722a30fa69588c36af50b1f9777ebf1}
       \strng{authorbibnamehash}{a722a30fa69588c36af50b1f9777ebf1}
       \strng{authornamehash}{a722a30fa69588c36af50b1f9777ebf1}
       \strng{authorfullhash}{a722a30fa69588c36af50b1f9777ebf1}
+      \strng{authorfullhashraw}{a722a30fa69588c36af50b1f9777ebf1}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -2029,7 +2113,7 @@
       \verb 10.1016/j.tibtech.2016.02.014
       \endverb
     \endentry
-    \entry{ZhangHorvath2005}{article}{}
+    \entry{ZhangHorvath2005}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=edefadf2737f4300dd8a9daa07b31f02}{%
            family={Zhang},
@@ -2046,14 +2130,16 @@
       }
       \strng{namehash}{e242b3770fcc3812de0af1be93e77392}
       \strng{fullhash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{fullhashraw}{e242b3770fcc3812de0af1be93e77392}
       \strng{bibnamehash}{e242b3770fcc3812de0af1be93e77392}
       \strng{authorbibnamehash}{e242b3770fcc3812de0af1be93e77392}
       \strng{authornamehash}{e242b3770fcc3812de0af1be93e77392}
       \strng{authorfullhash}{e242b3770fcc3812de0af1be93e77392}
+      \strng{authorfullhashraw}{e242b3770fcc3812de0af1be93e77392}
       \field{sortinit}{Z}
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -2068,7 +2154,7 @@
       \verb 10.2202/1544-6115.1128
       \endverb
     \endentry
-    \entry{Zheng2021}{article}{}
+    \entry{Zheng2021}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=4edf0e7dcf19ec551aecc2cc9cd6f21e}{%
            family={Zheng},
@@ -2097,14 +2183,16 @@
       }
       \strng{namehash}{2c236b635d98c9ab900dc10b9f281249}
       \strng{fullhash}{ede08aff21534548191588f344464ede}
+      \strng{fullhashraw}{ede08aff21534548191588f344464ede}
       \strng{bibnamehash}{ede08aff21534548191588f344464ede}
       \strng{authorbibnamehash}{ede08aff21534548191588f344464ede}
       \strng{authornamehash}{2c236b635d98c9ab900dc10b9f281249}
       \strng{authorfullhash}{ede08aff21534548191588f344464ede}
+      \strng{authorfullhashraw}{ede08aff21534548191588f344464ede}
       \field{sortinit}{Z}
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
