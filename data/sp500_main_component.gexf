@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-21">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="MSFT" label="MSFT" />
+      <node id="NVDA" label="NVDA" />
+      <node id="AMZN" label="AMZN" />
+      <node id="GOOGL" label="GOOGL" />
+      <node id="GOOG" label="GOOG" />
+      <node id="META" label="META" />
+      <node id="TSLA" label="TSLA" />
+      <node id="ORCL" label="ORCL" />
+      <node id="LLY" label="LLY" />
+      <node id="XOM" label="XOM" />
+      <node id="JNJ" label="JNJ" />
+      <node id="PLTR" label="PLTR" />
+      <node id="ABBV" label="ABBV" />
+      <node id="MU" label="MU" />
+      <node id="NFLX" label="NFLX" />
+      <node id="AMD" label="AMD" />
+      <node id="GE" label="GE" />
+      <node id="CVX" label="CVX" />
+      <node id="UNH" label="UNH" />
+    </nodes>
+    <edges>
+      <edge source="MSFT" target="NVDA" id="0" />
+      <edge source="MSFT" target="AMD" id="1" />
+      <edge source="MSFT" target="CVX" id="2" />
+      <edge source="MSFT" target="GE" id="3" />
+      <edge source="MSFT" target="UNH" id="4" />
+      <edge source="MSFT" target="PLTR" id="5" />
+      <edge source="NVDA" target="MU" id="6" />
+      <edge source="NVDA" target="AMZN" id="7" />
+      <edge source="NVDA" target="GOOG" id="8" />
+      <edge source="NVDA" target="GOOGL" id="9" />
+      <edge source="NVDA" target="ORCL" id="10" />
+      <edge source="NVDA" target="META" id="11" />
+      <edge source="NVDA" target="TSLA" id="12" />
+      <edge source="AMZN" target="AMD" id="13" />
+      <edge source="AMZN" target="NFLX" id="14" />
+      <edge source="AMZN" target="XOM" id="15" />
+      <edge source="AMZN" target="JNJ" id="16" />
+      <edge source="AMZN" target="ABBV" id="17" />
+      <edge source="AMZN" target="PLTR" id="18" />
+      <edge source="AMZN" target="LLY" id="19" />
+      <edge source="GOOGL" target="PLTR" id="20" />
+      <edge source="TSLA" target="AMD" id="21" />
+      <edge source="ORCL" target="AMD" id="22" />
+      <edge source="ORCL" target="PLTR" id="23" />
+    </edges>
+  </graph>
+</gexf>
