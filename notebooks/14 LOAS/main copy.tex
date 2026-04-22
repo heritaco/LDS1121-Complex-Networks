@@ -98,10 +98,6 @@
 \renewcommand*{\bibfont}{\normalsize}
 \setlength{\bibitemsep}{0.18em}
 \AtBeginBibliography{\setstretch{1.12}}
-% Ajuste solicitado: poner en cursiva todos los titulos de las obras citadas,
-% incluso en tipos de entrada que APA suele dejar en redonda.
-\DeclareFieldFormat[article,inbook,incollection,periodical,misc,legislation,legadminmaterial,jurisdiction,inproceedings,legal]{title}{\mkbibemph{#1}\isdot}
-\DeclareFieldFormat{citetitle}{\mkbibemph{#1}}
 
 \makeatletter
 \DeclareFieldFormat{citehyperref}{%

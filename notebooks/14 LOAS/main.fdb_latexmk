@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1775831872.5936 "main.bcf" "main.bbl" "main" 1775831901.85541 0
-  "biblio.bib" 1775820275 13801 b4e1067df939d4ea1527c40e7b5ce0da ""
-  "main.bcf" 1775831900 136577 26a42952bcb7129bcbd339156dfab6d7 "lualatex"
+["biber main"] 1776885615.77924 "main.bcf" "main.bbl" "main" 1776886706.97127 0
+  "biblio.bib" 1776044703 13801 b4e1067df939d4ea1527c40e7b5ce0da ""
+  "main.bcf" 1776886706 136646 7467c00e09dd3a060fe5f5de2a7f08e7 "lualatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["lualatex"] 1775831894.01613 "e:/HERIBERTO/github/LDS1121-Complex-Networks/notebooks/14 LOAS/main.tex" "main.pdf" "main" 1775831901.85739 0
-  "C:/Users/HERIBERTO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1775824918 81088 29d6fa367ac022d1b69251d68c0742e6 ""
+["lualatex"] 1776886701.8304 "main.tex" "main.pdf" "main" 1776886706.9729 0
+  "C:/Users/HERIBERTO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1776824668 124029 9086855eb1272ea171773d0827ded7ed ""
   "C:/Users/HERIBERTO/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/ebgaramond-bold.luc" 1775824937 732866 873f674193f2894f24eeb025339085ff ""
   "C:/Users/HERIBERTO/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/ebgaramond-bolditalic.luc" 1775824940 608728 e1ab772f54c123fbe0c92e270bc5f508 ""
   "C:/Users/HERIBERTO/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/ebgaramond-italic-variablefont-wght.luc" 1775824938 501003 597baf9678a1a294dfaacfefd2a10ef0 ""
@@ -17,8 +17,8 @@
   "C:/Users/HERIBERTO/AppData/Local/MiKTeX/luatex-cache/generic/fonts/streams/ebgaramondboldttf-1.luc" 1775824943 701034 3012363df7aa6271a9263fd018d17d17 ""
   "C:/Users/HERIBERTO/AppData/Local/MiKTeX/luatex-cache/generic/fonts/streams/ebgaramonditalicvariablefontwghtttf-1.luc" 1775824944 675015 fc68e44286572a6fb6aa52476e969d5d ""
   "C:/Users/HERIBERTO/AppData/Local/MiKTeX/luatex-cache/generic/fonts/streams/ebgaramondvariablefontwghtttf-1.luc" 1775824944 698137 6bed83fd731098e9f51616807c123e3f ""
-  "C:/Users/HERIBERTO/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1775825344 3036 c20819eee7601d480d8952cd48ce58f9 ""
-  "C:/Users/HERIBERTO/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz" 1775824933 72625 6842cfe1202a101264a61a740edfbcb8 ""
+  "C:/Users/HERIBERTO/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1776885224 7123 515cdb46d9c068c0be641a94fa543e8a ""
+  "C:/Users/HERIBERTO/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz" 1776824679 76362 c7d2f63eba0e15894d8a84cbce0232c9 ""
   "C:/Users/HERIBERTO/AppData/Local/Microsoft/Windows/Fonts/ebgaramond-bold.ttf" 1775819881 561464 2c98fcf1d7bffc5b4c6394cdf6650a1b ""
   "C:/Users/HERIBERTO/AppData/Local/Microsoft/Windows/Fonts/ebgaramond-italic-variablefont_wght.ttf" 1775819882 811012 1567140dd60e9e8ba279961621053bf5 ""
   "C:/Users/HERIBERTO/AppData/Local/Microsoft/Windows/Fonts/ebgaramond-variablefont_wght.ttf" 1775819882 934420 a727c28a2374f6759f79ba4bf9616d56 ""
@@ -189,12 +189,11 @@
   "C:/Users/HERIBERTO/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-unicode.lua" 1740607740 7918 4272855a25780b80472f3b58edd95e33 ""
   "C:/Users/HERIBERTO/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload.lua" 1740607740 13566 16df94dd2de231b2bca0aaa0190941fe ""
   "C:/Users/HERIBERTO/AppData/Roaming/MiKTeX/tex/generic/config/language.dat" 1775824874 2269 c2be9efecb8e53facf8213ae101f16af ""
-  "e:/HERIBERTO/github/LDS1121-Complex-Networks/notebooks/14 LOAS/main.tex" 1775831792 18597 d408da9d48d3ab59ab6505f1c0f1bb9a ""
-  "main.aux" 1775831900 7815 d8a64173ceb7a529d8930d4faf4eb001 "lualatex"
-  "main.bbl" 1775831880 81569 d9e0e4b6ae27360724005278bda78922 "biber main"
-  "main.out" 1775831898 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "main.run.xml" 1775831900 2390 f0f36329e2d97294f5b09a60fd3c8286 "lualatex"
-  "main.tex" 1775831792 18597 d408da9d48d3ab59ab6505f1c0f1bb9a ""
+  "main.aux" 1776886706 7962 ce0f385a4138d2c51dc0f4219bfce792 "lualatex"
+  "main.bbl" 1776885619 81569 d9e0e4b6ae27360724005278bda78922 "biber main"
+  "main.out" 1776886705 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "main.run.xml" 1776886706 2390 f0f36329e2d97294f5b09a60fd3c8286 "lualatex"
+  "main.tex" 1776886690 20004 ec9292e7037f9600796bafe704cff851 ""
   (generated)
   "main.aux"
   "main.bcf"
