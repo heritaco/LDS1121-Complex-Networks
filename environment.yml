@@ -1,0 +1,12 @@
+name: redes
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - networkx
+  - matplotlib
+  - numpy
+  - pandas
+  - ipykernel
+  - jupyterlab
+

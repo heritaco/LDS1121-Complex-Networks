@@ -1,0 +1,48 @@
+name: Validate Environment
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  smoke-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Conda environment
+        uses: conda-incubator/setup-miniconda@v3
+        with:
+          activate-environment: redes
+          auto-activate-base: false
+          channels: conda-forge
+          environment-file: environment.yml
+          use-mamba: true
+
+      - name: Verify core imports
+        shell: bash -l {0}
+        run: |
+          python - <<'PY'
+          import networkx as nx
+          import matplotlib.pyplot as plt
+          import numpy as np
+          import pandas as pd
+          import matplotlib.cm as cm
+          import matplotlib.colors as mcolors
+          from IPython.display import display
+          from pathlib import Path
+          from typing import List, Tuple
+
+          BLUES = plt.cm.rainbow
+
+          print("Smoke test passed")
+          print("networkx", nx.__version__)
+          print("numpy", np.__version__)
+          print("pandas", pd.__version__)
+          print("matplotlib", plt.matplotlib.__version__)
+          print("colormap", BLUES.name)
+          PY
