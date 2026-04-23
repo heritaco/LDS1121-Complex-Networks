@@ -4,9 +4,9 @@ channels:
 dependencies:
   - python=3.11
   - networkx
+  - scipy
   - matplotlib
   - numpy
   - pandas
   - ipykernel
   - jupyterlab
-

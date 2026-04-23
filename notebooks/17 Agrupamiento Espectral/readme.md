@@ -1,8 +1,6 @@
 Revisa el siguiente cuaderno de trabajo:
 
-
-
-Agrupamiento Espectral.ipynb
+00 Tutorial
 
 
  Aplica el algoritmo de agrupamiento espectral de la mini red y la red real. En caso de que tu red no sea conexa, aplícalo a cada componente "candidata a ser dividida" (de acuerdo a su conectividad algebraica).
