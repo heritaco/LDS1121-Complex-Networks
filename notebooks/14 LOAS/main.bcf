@@ -3071,54 +3071,55 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">biblio.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">Koutrouli2020</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">EmmertStreib2014</bcf:citekey>
     <bcf:citekey order="1" intorder="2">ZhangHorvath2005</bcf:citekey>
-    <bcf:citekey order="1" intorder="3">EmmertStreib2014</bcf:citekey>
-    <bcf:citekey order="1" intorder="4">BanfRhee2017</bcf:citekey>
+    <bcf:citekey order="1" intorder="3">BanfRhee2017</bcf:citekey>
+    <bcf:citekey order="1" intorder="4">Koutrouli2020</bcf:citekey>
     <bcf:citekey order="2" intorder="1">BullmoreSporns2009</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">Bascompte2009</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Dunne2002</bcf:citekey>
     <bcf:citekey order="3" intorder="2">KrauseLusseauJames2009</bcf:citekey>
-    <bcf:citekey order="3" intorder="3">Dunne2002</bcf:citekey>
+    <bcf:citekey order="3" intorder="3">Bascompte2009</bcf:citekey>
     <bcf:citekey order="4" intorder="1">Beagrie2017</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">Jeong2001</bcf:citekey>
-    <bcf:citekey order="5" intorder="2">Joy2005</bcf:citekey>
-    <bcf:citekey order="5" intorder="3">Koutrouli2020</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">Koutrouli2020</bcf:citekey>
-    <bcf:citekey order="6" intorder="2">EmmertStreib2015</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">EmmertStreib2014</bcf:citekey>
-    <bcf:citekey order="7" intorder="2">BanfRhee2017</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">ZhangHorvath2005</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Koutrouli2020</bcf:citekey>
+    <bcf:citekey order="5" intorder="2">Jeong2001</bcf:citekey>
+    <bcf:citekey order="5" intorder="3">Joy2005</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">EmmertStreib2015</bcf:citekey>
+    <bcf:citekey order="6" intorder="2">Koutrouli2020</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">BanfRhee2017</bcf:citekey>
+    <bcf:citekey order="7" intorder="2">EmmertStreib2014</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Gnanakkumaar2019</bcf:citekey>
     <bcf:citekey order="8" intorder="2">Zheng2021</bcf:citekey>
-    <bcf:citekey order="8" intorder="3">Gnanakkumaar2019</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">BullmoreSporns2009</bcf:citekey>
-    <bcf:citekey order="9" intorder="2">Mittal2024</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">Bascompte2009</bcf:citekey>
+    <bcf:citekey order="8" intorder="3">ZhangHorvath2005</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Mittal2024</bcf:citekey>
+    <bcf:citekey order="9" intorder="2">BullmoreSporns2009</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Dunne2002</bcf:citekey>
     <bcf:citekey order="10" intorder="2">Olesen2007</bcf:citekey>
-    <bcf:citekey order="10" intorder="3">Dunne2002</bcf:citekey>
+    <bcf:citekey order="10" intorder="3">Bascompte2009</bcf:citekey>
     <bcf:citekey order="11" intorder="1">KrauseLusseauJames2009</bcf:citekey>
     <bcf:citekey order="12" intorder="1">Beagrie2017</bcf:citekey>
     <bcf:citekey order="13" intorder="1">Koutrouli2020</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">EmmertStreib2014</bcf:citekey>
-    <bcf:citekey order="14" intorder="2">BanfRhee2017</bcf:citekey>
-    <bcf:citekey order="14" intorder="3">Kauffman1969</bcf:citekey>
-    <bcf:citekey order="14" intorder="4">Elowitz2002</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">ZhangHorvath2005</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">BullmoreSporns2009</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">Bascompte2009</bcf:citekey>
-    <bcf:citekey order="17" intorder="2">Memmott2004</bcf:citekey>
-    <bcf:citekey order="17" intorder="3">Olesen2007</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">Beagrie2017</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">Jeong2001</bcf:citekey>
-    <bcf:citekey order="19" intorder="2">EmmertStreib2014</bcf:citekey>
-    <bcf:citekey order="19" intorder="3">BanfRhee2017</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">ZhangHorvath2005</bcf:citekey>
-    <bcf:citekey order="20" intorder="2">Zheng2021</bcf:citekey>
-    <bcf:citekey order="20" intorder="3">Gnanakkumaar2019</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">BullmoreSporns2009</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">Memmott2004</bcf:citekey>
-    <bcf:citekey order="22" intorder="2">Dunne2002</bcf:citekey>
-    <bcf:citekey order="22" intorder="3">Bascompte2009</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">Beagrie2017</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">Koutrouli2020</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Elowitz2002</bcf:citekey>
+    <bcf:citekey order="15" intorder="2">Kauffman1969</bcf:citekey>
+    <bcf:citekey order="15" intorder="3">BanfRhee2017</bcf:citekey>
+    <bcf:citekey order="15" intorder="4">EmmertStreib2014</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">ZhangHorvath2005</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">BullmoreSporns2009</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">Olesen2007</bcf:citekey>
+    <bcf:citekey order="18" intorder="2">Memmott2004</bcf:citekey>
+    <bcf:citekey order="18" intorder="3">Bascompte2009</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Beagrie2017</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">BanfRhee2017</bcf:citekey>
+    <bcf:citekey order="20" intorder="2">EmmertStreib2014</bcf:citekey>
+    <bcf:citekey order="20" intorder="3">Jeong2001</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Gnanakkumaar2019</bcf:citekey>
+    <bcf:citekey order="21" intorder="2">Zheng2021</bcf:citekey>
+    <bcf:citekey order="21" intorder="3">ZhangHorvath2005</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">BullmoreSporns2009</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Bascompte2009</bcf:citekey>
+    <bcf:citekey order="23" intorder="2">Dunne2002</bcf:citekey>
+    <bcf:citekey order="23" intorder="3">Memmott2004</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">Beagrie2017</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
