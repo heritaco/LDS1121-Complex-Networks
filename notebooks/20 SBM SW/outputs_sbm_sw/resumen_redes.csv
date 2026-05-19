@@ -1,0 +1,3 @@
+red,nodos,aristas,densidad,grado_promedio,grado_max,componentes,tamanos_componentes
+G completa,47,148,0.13691026827012026,6.297872340425532,30,1,[47]
+G_mini,34,128,0.2281639928698752,7.529411764705882,28,1,[34]

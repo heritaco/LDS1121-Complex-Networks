@@ -1,0 +1,16 @@
+nodo,comunidad,grado,componente_conexa
+MA,C0,4,0
+AAPL,C0,3,0
+V,C0,3,0
+BAC,C0,2,0
+COST,C0,2,0
+HD,C0,2,0
+WMT,C0,2,0
+AMZN,C1,3,1
+MSFT,C1,3,1
+ORCL,C1,3,1
+GOOGL,C1,2,1
+TSLA,C1,2,1
+NVDA,C2,5,1
+AMD,C2,4,1
+PLTR,C2,4,1
