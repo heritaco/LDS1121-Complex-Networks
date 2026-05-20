@@ -1,0 +1,4 @@
+comunidad,nodos,aristas_internas,aristas_frontera,kappa_suma_grados,miembros
+C0,7,9,0,18.0,"AAPL, BAC, COST, HD, MA, V, WMT"
+C1,5,0,13,13.0,"AMZN, GOOGL, MSFT, ORCL, TSLA"
+C2,3,0,13,13.0,"AMD, NVDA, PLTR"
